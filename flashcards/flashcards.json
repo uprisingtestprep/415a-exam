@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is the temperature danger zone?",
+    "back": "It is the range from 4 degrees C to 60 degrees C where bacteria on food grow the fastest. Potentially hazardous food should spend as little time as possible in this range. Cold food must stay at or below 4 degrees C and hot food at or above 60 degrees C."
+  },
+  {
+    "id": 2,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is the minimum hot holding temperature for cooked food?",
+    "back": "Cooked food held for service, such as on a steam table, must stay at 60 degrees C or above. This keeps the food out of the temperature danger zone. Staff should check this with a calibrated thermometer regularly, not by touch."
+  },
+  {
+    "id": 3,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is the maximum cold holding temperature for potentially hazardous food?",
+    "back": "Potentially hazardous food must be held at 4 degrees C or below. This slows bacterial growth significantly. Fridges should be checked with a thermometer, since the dial setting alone is not reliable."
+  },
+  {
+    "id": 4,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What internal temperature must poultry reach when cooked?",
+    "back": "Poultry pieces and stuffing must reach 74 degrees C in the thickest part, but a whole, uncut bird needs a higher minimum of 82 degrees C, measured in the thickest part of the thigh. Destroying Salmonella and Campylobacter is the goal either way. Bone contact can give a false reading, so the probe should avoid touching bone."
+  },
+  {
+    "id": 5,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What internal temperature must ground meat reach when cooked?",
+    "back": "Ground meat, including ground beef and other ground red meat, must reach 71 degrees C. Grinding spreads bacteria throughout the meat, so the whole patty needs a higher temperature than a whole cut. Colour is not a reliable way to confirm doneness, only a calibrated thermometer is."
+  },
+  {
+    "id": 6,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is the safe cooking standard for whole cuts of beef, veal, and lamb?",
+    "back": "Whole muscle cuts like steaks and roasts from beef, veal, and lamb need to reach 63 degrees C followed by a rest of at least three minutes. Bacteria mainly live on the surface of a whole cut, which gets seared during cooking. Pork does not share this exception: whole pork cuts must reach a flat 71 degrees C instead."
+  },
+  {
+    "id": 7,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What internal temperature must fish reach when cooked?",
+    "back": "Fish must reach 70 degrees C internally to be considered safely cooked. Shellfish such as shrimp, lobster, crab, scallops, clams, mussels, and oysters have a separate, higher minimum of 74 degrees C, and any shellfish that does not open during cooking should be discarded."
+  },
+  {
+    "id": 8,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is the reheating standard for leftovers?",
+    "back": "Leftovers must be reheated to 74 degrees C within two hours. This should be done on a stovetop, in an oven, or in a microwave, never in a slow cooker or steam table since those heat too slowly. Once reheated, food must then be held at 60 degrees C or above."
+  },
+  {
+    "id": 9,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is the two-stage cooling method?",
+    "back": "Cooked food must cool from 60 degrees C to 20 degrees C within two hours, then from 20 degrees C to 4 degrees C within an additional four hours. The total maximum cooling time is six hours. If the first stage is missed, the food must be reheated and cooling restarted, or discarded."
+  },
+  {
+    "id": 10,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "How long should hands be scrubbed during proper handwashing?",
+    "back": "Hands should be scrubbed with soap for at least 20 seconds. This includes fingers, thumbs, nails, and wrists. A dedicated handwash sink and warm water should always be used, not a food prep sink."
+  },
+  {
+    "id": 11,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What are the correct handwashing steps in order?",
+    "back": "Wet hands, apply soap, scrub for 20 seconds, rinse thoroughly, then dry with a single use paper towel. Skipping steps or shortening the scrub time reduces how many bacteria are actually removed. This should be repeated any time hands become contaminated."
+  },
+  {
+    "id": 12,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is FIFO and why does it matter?",
+    "back": "FIFO stands for first in, first out, meaning older stock is used before newer stock. New deliveries are placed behind or below existing stock of the same item. This reduces waste and the risk of using expired or spoiled food."
+  },
+  {
+    "id": 13,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is cross-contamination?",
+    "back": "Cross-contamination is the transfer of harmful microorganisms between foods, surfaces, or equipment. It can happen directly, like raw juice dripping onto food, or indirectly, through unwashed hands or tools. Using separate equipment for raw and ready-to-eat food helps prevent it."
+  },
+  {
+    "id": 14,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "How is cross-contact different from cross-contamination?",
+    "back": "Cross-contact specifically refers to the transfer of food allergens between dishes, not bacteria. Cross-contamination refers to bacteria and other pathogens transferring between foods or surfaces. Both require separate or thoroughly cleaned equipment to prevent."
+  },
+  {
+    "id": 15,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What colour cutting board is commonly used for raw poultry?",
+    "back": "Yellow is a commonly used colour for raw poultry in many colour-coded cutting board systems. Colour coding helps staff quickly grab the right board without confusion. Every kitchen should confirm its own specific colour scheme during training."
+  },
+  {
+    "id": 16,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "How should raw proteins be arranged on walk-in cooler shelves?",
+    "back": "Items are stored from top to bottom by overall contamination and cross-drip risk, not by cook temperature alone: ready-to-eat items on top, then seafood, then whole cuts of beef and pork, then ground meats, with raw poultry on the bottom shelf since it carries the highest contamination risk. This protects lower shelves from drip contamination. Every kitchen should confirm its own colour-coding and shelf-order policy."
+  },
+  {
+    "id": 17,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What are the approved methods for thawing frozen food?",
+    "back": "Approved methods are thawing in a refrigerator at or below 4 degrees C, under cold running water at 21 degrees C or below, or in a microwave immediately followed by cooking. These methods keep the food's surface out of the danger zone. Room temperature thawing is never approved."
+  },
+  {
+    "id": 18,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "Why is thawing food at room temperature unsafe?",
+    "back": "Food thaws from the outside in, so the outer surface can sit in the temperature danger zone for hours while the centre is still frozen. This gives bacteria time to multiply on the surface. This risk applies to all proteins, not just poultry."
+  },
+  {
+    "id": 19,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is HACCP?",
+    "back": "HACCP stands for Hazard Analysis and Critical Control Points, a structured food safety system built around seven principles. It focuses on preventing hazards rather than only inspecting the finished product. It applies to every step of a food's journey from receiving to service."
+  },
+  {
+    "id": 20,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What are the seven HACCP principles?",
+    "back": "They are: hazard analysis, identifying critical control points, establishing critical limits, establishing monitoring procedures, establishing corrective actions, establishing verification procedures, and record keeping. Each principle builds on the one before it. Together they form a complete food safety management system."
+  },
+  {
+    "id": 21,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is a critical control point (CCP)?",
+    "back": "A CCP is a specific step in a process where a hazard can be prevented, eliminated, or reduced to a safe level. A common example is the cooking step, where reaching a safe temperature destroys bacteria. Not every step in a recipe is a CCP, only the ones where control is actually possible."
+  },
+  {
+    "id": 22,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is a critical limit?",
+    "back": "A critical limit is the specific measurable value, like a temperature or time, that must be met at a critical control point to keep food safe. For cooking chicken, the critical limit is 74 degrees C. If the limit is not met, a corrective action must follow."
+  },
+  {
+    "id": 23,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is a corrective action in HACCP?",
+    "back": "A corrective action is the predetermined response taken when a critical limit is not met. For example, reheating chicken that has dropped below 60 degrees C on hot holding, or discarding it if reheating is not possible. It fixes the immediate problem with the specific batch of food."
+  },
+  {
+    "id": 24,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is verification in HACCP?",
+    "back": "Verification is reviewing records, calibration logs, and staff practices to confirm the whole HACCP plan is actually working as designed. It is different from monitoring, which is the day to day checking during service. Verification helps catch bigger, systemic problems over time."
+  },
+  {
+    "id": 25,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "Why is record keeping important in a HACCP plan?",
+    "back": "Record keeping provides documented proof that monitoring and controls were actually carried out, such as completed temperature logs. It supports both accountability and food safety during a health inspection. Without records, there is no way to show the plan was actually followed."
+  },
+  {
+    "id": 26,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What does WHMIS stand for?",
+    "back": "WHMIS stands for Workplace Hazardous Materials Information System, the Canadian system for classifying and communicating chemical hazards in the workplace. It applies to cleaning chemicals and sanitizers used in a kitchen. It includes labels, Safety Data Sheets, and worker training."
+  },
+  {
+    "id": 27,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "How many hazard pictogram classes does WHMIS 2015 use?",
+    "back": "WHMIS 2015 uses nine hazard pictogram classes, each a red diamond with a black symbol. Examples include a flame for flammability and a corrosion symbol for skin or metal damage. Workers should be trained to recognize all nine."
+  },
+  {
+    "id": 28,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is a Safety Data Sheet (SDS) and how many sections does it have?",
+    "back": "An SDS is a standardized document with sixteen sections giving detailed information about a chemical, including first aid, handling, and storage. It provides more detail than a product label can fit. Employers must keep SDS documents accessible to all staff who use the product."
+  },
+  {
+    "id": 29,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What food sources are most linked to Salmonella?",
+    "back": "Salmonella is commonly linked to raw poultry, eggs, and unpasteurized dairy products. Thorough cooking to the required safe temperature destroys it. Symptoms usually include diarrhea, fever, and cramps appearing one to three days after exposure."
+  },
+  {
+    "id": 30,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What food sources are most linked to E. coli O157:H7?",
+    "back": "This bacterium is linked to undercooked ground beef and contaminated raw produce like lettuce or sprouts. It can cause severe illness including kidney failure in children and older adults. Grinding meat spreads bacteria throughout, so ground beef needs a higher cooking temperature than whole cuts."
+  },
+  {
+    "id": 31,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "Why is Listeria monocytogenes unusual compared to most other foodborne bacteria?",
+    "back": "Listeria can continue to grow slowly even at proper refrigeration temperatures, unlike most bacteria that are stopped by cold. This makes date marking and discard timelines especially important for deli meats and soft cheeses. It is particularly dangerous for pregnant people and those with weak immune systems."
+  },
+  {
+    "id": 32,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What conditions allow Clostridium botulinum to grow, and why are damaged cans discarded?",
+    "back": "This bacterium grows in low-oxygen environments like improperly sealed or vacuum-packed food, producing a dangerous neurotoxin. Damaged, dented, or bulging cans are discarded because they may signal this kind of contamination. Symptoms include double vision and muscle weakness, and the illness can be fatal."
+  },
+  {
+    "id": 33,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "Why does Staphylococcus aureus cause symptoms so quickly?",
+    "back": "Staph aureus produces a heat-stable toxin in food left at room temperature, and the toxin itself, not just the bacteria, causes illness. Because cooking does not destroy the toxin, symptoms like vomiting can start within two to four hours. Foods handled by hand and left unrefrigerated, like cream pastries, are common sources."
+  },
+  {
+    "id": 34,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "How does norovirus commonly spread in a kitchen?",
+    "back": "Norovirus spreads through the fecal-oral route, often from an infected food handler with poor hand hygiene. It is highly contagious, so even a small hygiene lapse can cause a large outbreak. Sick staff must be excluded from food handling until cleared to return."
+  },
+  {
+    "id": 35,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is Clostridium perfringens most associated with?",
+    "back": "This bacterium is commonly linked to large batches of food, like gravies and stews, that are cooled too slowly. It thrives in low-oxygen conditions found in the centre of a large pot. Proper cooling using shallow pans or ice baths helps prevent it."
+  },
+  {
+    "id": 36,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is Bacillus cereus most associated with?",
+    "back": "Bacillus cereus is often linked to improperly cooled or held rice and other starchy foods. It can produce spores that survive cooking and then grow if the food sits too long in the danger zone. Cooling rice quickly and holding it properly reduces this risk."
+  },
+  {
+    "id": 37,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What should happen when an employee reports symptoms like vomiting or diarrhea?",
+    "back": "The employee should be excluded from food handling duties until symptoms have fully resolved, following the establishment's exclusion policy. This protects guests and coworkers from potential foodborne illness. Wearing extra gloves is not an adequate substitute for exclusion."
+  },
+  {
+    "id": 38,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What are standard jewelry and nail rules for kitchen staff?",
+    "back": "Jewelry is usually limited to a plain wedding band, and nails must be kept short and clean. Rings, bracelets, and long or artificial nails can trap bacteria and are hard to clean properly. These rules are usually part of a written personal hygiene policy."
+  },
+  {
+    "id": 39,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is the correct order for using a three-compartment sink?",
+    "back": "The order is wash with detergent, rinse with clean water, then sanitize at the correct concentration. Items should then air dry rather than being towel dried. Each compartment plays a different role and skipping one reduces the process's effectiveness."
+  },
+  {
+    "id": 40,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What sanitizer concentrations are typically used for chlorine and quat?",
+    "back": "Chlorine sanitizer is typically mixed to around 100 ppm, while quaternary ammonium, or quat, is typically mixed to around 200 ppm. The manufacturer's label always gives the exact instructions. Test strips should be used to confirm the actual concentration before use."
+  },
+  {
+    "id": 41,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What final rinse temperature does a high-temperature dishwasher need?",
+    "back": "A high-temperature dishwasher needs a final rinse of at least 82 degrees C to properly sanitize items using heat instead of chemicals. A built-in gauge should be checked regularly to confirm this temperature is reached. If the machine cannot reach it, items are not actually sanitized."
+  },
+  {
+    "id": 42,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What type of fire extinguisher is used for a grease fire?",
+    "back": "A Class K extinguisher is designed specifically for fires involving cooking oils and fats. It cools the burning oil and forms a layer that helps prevent reignition. Using water on a grease fire can cause dangerous splattering and should never be done."
+  },
+  {
+    "id": 43,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What does the PASS technique for using a fire extinguisher stand for?",
+    "back": "PASS stands for Pull the pin, Aim at the base of the fire, Squeeze the handle, and Sweep side to side. Aiming at the base rather than the top of the flames targets the actual fuel source. Staff should know extinguisher locations and have a clear escape route before attempting to fight even a small fire."
+  },
+  {
+    "id": 44,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is the correct lifting technique to prevent back injury?",
+    "back": "Bend at the knees, keep the load close to the body, and lift primarily with the legs rather than the back. Twisting while lifting should always be avoided, since it puts extra stress on the spine. For heavy or awkward items, ask a coworker for help or use a cart."
+  },
+  {
+    "id": 45,
+    "domain": "hygiene_sanitation_and_safety",
+    "front": "What is the internal responsibility system in Canadian workplace safety?",
+    "back": "It is a shared safety model where both employer and workers have responsibility for identifying and correcting hazards, rather than relying only on government inspectors. Employers provide training, equipment, and a safe environment, while workers follow procedures and report hazards. This shared approach is a foundational principle in Canadian occupational health and safety law."
+  },
+  {
+    "id": 46,
+    "domain": "common_occupational_skills",
+    "front": "Julienne cut dimensions",
+    "back": "A long, thin matchstick cut measuring approximately 1/8 inch by 1/8 inch by 2 to 2.5 inches. It is the base cut used before making a brunoise."
+  },
+  {
+    "id": 47,
+    "domain": "common_occupational_skills",
+    "front": "Batonnet cut dimensions",
+    "back": "A stick cut about 1/4 inch by 1/4 inch by 2 to 2.5 inches, roughly double the width of a julienne. It is the base cut used before making a standard dice."
+  },
+  {
+    "id": 48,
+    "domain": "common_occupational_skills",
+    "front": "Brunoise cut, how it is made",
+    "back": "A fine, uniform dice made by cutting a julienne first, then turning the strips ninety degrees and dicing across them. A fine brunoise is even smaller, about 1/16 inch."
+  },
+  {
+    "id": 49,
+    "domain": "common_occupational_skills",
+    "front": "Chiffonade cut, what it is used for",
+    "back": "A ribbon cut made by stacking, rolling, and slicing leafy herbs or greens like basil. It avoids bruising the leaves the way heavy chopping would."
+  },
+  {
+    "id": 50,
+    "domain": "common_occupational_skills",
+    "front": "Tourne cut, shape and side count",
+    "back": "A classic French cut producing a small barrel or football shape with seven flat, equal sides and rounded ends. It is used on root vegetables like potatoes and carrots and tests precise knife control."
+  },
+  {
+    "id": 51,
+    "domain": "common_occupational_skills",
+    "front": "Paysanne cut",
+    "back": "A flat, thin cut in a rough square, round, or triangle shape, about 1/2 inch across. It is used in rustic soups where a casual appearance is acceptable."
+  },
+  {
+    "id": 52,
+    "domain": "common_occupational_skills",
+    "front": "Rondelle cut",
+    "back": "A simple round or oval slice made by cutting straight across a cylindrical vegetable, such as a carrot or cucumber. It is a quick, uniform slice with no angling."
+  },
+  {
+    "id": 53,
+    "domain": "common_occupational_skills",
+    "front": "Diagonal cut, why it is used",
+    "back": "Made by angling the knife across a cylindrical vegetable to expose more surface area. This speeds up cooking time, which is useful for stir fry dishes cooked over high heat."
+  },
+  {
+    "id": 54,
+    "domain": "common_occupational_skills",
+    "front": "Standard dice sizes, small, medium, large",
+    "back": "Small dice is about 1/4 inch cubes, medium dice is about 1/2 inch cubes, and large dice is about 3/4 inch cubes. These build off the batonnet stick cut."
+  },
+  {
+    "id": 55,
+    "domain": "common_occupational_skills",
+    "front": "Honing versus sharpening",
+    "back": "Honing realigns a blade's existing edge without removing metal, and should be done often, even daily. Sharpening removes metal to create a new edge and is only needed occasionally."
+  },
+  {
+    "id": 56,
+    "domain": "common_occupational_skills",
+    "front": "Claw grip",
+    "back": "A knife handling technique where the fingertips of the guiding hand curl under and the knuckles guide the blade. It protects fingers from injury and keeps cuts even and consistent."
+  },
+  {
+    "id": 57,
+    "domain": "common_occupational_skills",
+    "front": "Knife safety, carrying a knife across the kitchen",
+    "back": "Always carry a knife point down at your side, and announce yourself by saying \"behind\" or \"knife\" when passing a coworker. Never leave a knife submerged in a sink of water."
+  },
+  {
+    "id": 58,
+    "domain": "common_occupational_skills",
+    "front": "Combi oven",
+    "back": "An oven that combines convection heat with steam injection, allowing precise humidity controlled roasting, steaming, and holding of food. It is common equipment in modern professional kitchens."
+  },
+  {
+    "id": 59,
+    "domain": "common_occupational_skills",
+    "front": "Hotel pan sizing system",
+    "back": "Hotel pans, also called steam table pans, are sized using a standard fractional system: full, half, third, sixth, and ninth pans. This allows mixing and matching pans on a line or in storage."
+  },
+  {
+    "id": 60,
+    "domain": "common_occupational_skills",
+    "front": "Thermometer calibration check",
+    "back": "Place the probe in an ice water bath. A properly calibrated thermometer should read 0 degrees Celsius. If it reads differently, adjust or replace the thermometer before using it in service."
+  },
+  {
+    "id": 61,
+    "domain": "common_occupational_skills",
+    "front": "Probe versus infrared thermometer",
+    "back": "A probe thermometer is inserted into food to read internal temperature. An infrared thermometer reads surface temperature from a distance without touching the food."
+  },
+  {
+    "id": 62,
+    "domain": "common_occupational_skills",
+    "front": "Mandoline safety requirement",
+    "back": "A mandoline blade is extremely sharp and exposed, so a hand guard must always be used to protect the fingers while slicing. Skipping the hand guard is a common serious injury risk."
+  },
+  {
+    "id": 63,
+    "domain": "common_occupational_skills",
+    "front": "Kitchen brigade system, who created it",
+    "back": "Georges Auguste Escoffier developed the brigade system in the late 1800s. It organizes kitchen staff into a clear hierarchy with defined roles and lines of communication."
+  },
+  {
+    "id": 64,
+    "domain": "common_occupational_skills",
+    "front": "Executive Chef role",
+    "back": "The top of the kitchen brigade hierarchy. Oversees the entire kitchen operation, menu development, and staff management."
+  },
+  {
+    "id": 65,
+    "domain": "common_occupational_skills",
+    "front": "Sous Chef role",
+    "back": "Second in command in the brigade system, managing daily kitchen operations and stepping in when the Executive Chef is absent."
+  },
+  {
+    "id": 66,
+    "domain": "common_occupational_skills",
+    "front": "Saucier station",
+    "back": "The brigade station chef responsible for sauces and saute items. It is considered one of the most demanding stations in the traditional brigade."
+  },
+  {
+    "id": 67,
+    "domain": "common_occupational_skills",
+    "front": "Poissonnier station",
+    "back": "The brigade station chef responsible for fish and seafood preparation."
+  },
+  {
+    "id": 68,
+    "domain": "common_occupational_skills",
+    "front": "Rotisseur and Grillardin stations",
+    "back": "Both are hot food stations at the chef de partie, or station chef, level. The Rotisseur handles roasted and braised items, while the Grillardin handles grilled items. Larger kitchens split these into separate stations, while smaller kitchens often combine them under one cook."
+  },
+  {
+    "id": 69,
+    "domain": "common_occupational_skills",
+    "front": "Garde Manger station",
+    "back": "The brigade station chef responsible for cold food, salads, and charcuterie preparation."
+  },
+  {
+    "id": 70,
+    "domain": "common_occupational_skills",
+    "front": "Patissier station",
+    "back": "The brigade station chef responsible for pastry, desserts, and baked goods."
+  },
+  {
+    "id": 71,
+    "domain": "common_occupational_skills",
+    "front": "Tournant role",
+    "back": "Also called a swing cook, the tournant is trained to work competently at any station as needed. This flexibility fills staffing gaps during a shift."
+  },
+  {
+    "id": 72,
+    "domain": "common_occupational_skills",
+    "front": "Commis and apprentice, difference",
+    "back": "A commis is a junior cook learning a single station under a chef de partie. An apprentice is working through structured training hours and technical study toward certification."
+  },
+  {
+    "id": 73,
+    "domain": "common_occupational_skills",
+    "front": "Mise en place, definition and purpose",
+    "back": "French for \"everything in its place,\" it means fully prepping and organizing ingredients, tools, and equipment before service. Good mise en place reduces waste, improves speed, and reduces errors during a busy service."
+  },
+  {
+    "id": 74,
+    "domain": "common_occupational_skills",
+    "front": "Conversion factor formula",
+    "back": "Conversion factor equals new yield divided by original yield. Multiply every ingredient in the original recipe by this factor to scale the recipe accurately."
+  },
+  {
+    "id": 75,
+    "domain": "common_occupational_skills",
+    "front": "Yield percentage formula",
+    "back": "Yield percentage equals edible portion weight divided by as purchased weight, multiplied by 100. It shows how much usable product remains after trimming or processing."
+  },
+  {
+    "id": 76,
+    "domain": "common_occupational_skills",
+    "front": "As purchased weight formula (using yield percentage)",
+    "back": "As purchased weight equals edible portion weight needed divided by yield percentage (as a decimal). This tells a cook how much raw product to buy to end up with enough trimmed, usable product."
+  },
+  {
+    "id": 77,
+    "domain": "common_occupational_skills",
+    "front": "Food cost percentage formula",
+    "back": "Food cost percentage equals food cost divided by selling price, multiplied by 100. Most food service operations target roughly 28 to 35 percent, though this varies by segment."
+  },
+  {
+    "id": 78,
+    "domain": "common_occupational_skills",
+    "front": "Selling price formula from a target food cost percentage",
+    "back": "Selling price equals food cost divided by target food cost percentage, expressed as a decimal. For example, a 6 dollar plate at a 30 percent target sells for 20 dollars."
+  },
+  {
+    "id": 79,
+    "domain": "common_occupational_skills",
+    "front": "Litre to kilogram conversion for water",
+    "back": "1 litre of water weighs approximately 1 kilogram, since water has a density of 1 gram per millilitre. This does not hold true for other liquids like oil or syrup."
+  },
+  {
+    "id": 80,
+    "domain": "common_occupational_skills",
+    "front": "Standardized recipe, purpose",
+    "back": "A written document recording exact ingredients, quantities, method, yield, and portion size for a menu item. It ensures consistency regardless of which cook prepares the dish and is the reference point for scaling and costing."
+  },
+  {
+    "id": 81,
+    "domain": "produce",
+    "front": "Botanically, what makes something a fruit rather than a vegetable?",
+    "back": "A fruit develops from the flower of a plant and contains seeds. A vegetable is any other edible plant part, such as a root, stem, leaf, or bulb. Tomatoes, cucumbers, and peppers are botanically fruits but are classified as vegetables in professional cooking."
+  },
+  {
+    "id": 82,
+    "domain": "produce",
+    "front": "Give three examples of root vegetables.",
+    "back": "Carrots, beets, turnips, and parsnips are root vegetables. They are grouped this way because the edible part grows underground as the plant's root system. Root vegetables generally store well and hold up under long cooking methods."
+  },
+  {
+    "id": 83,
+    "domain": "produce",
+    "front": "What are tuber vegetables, and what are two examples?",
+    "back": "Tuber vegetables are the swollen underground stems of a plant used for storing energy. Potatoes and Jerusalem artichokes are the main examples used in a professional kitchen. They are stored cool and dry rather than refrigerated."
+  },
+  {
+    "id": 84,
+    "domain": "produce",
+    "front": "Name four bulb vegetables.",
+    "back": "Onions, garlic, shallots, and leeks are bulb vegetables. They are layered structures that grow underground and store well in cool, dry, low humidity conditions. They need good air circulation to prevent mold."
+  },
+  {
+    "id": 85,
+    "domain": "produce",
+    "front": "What distinguishes a stone fruit, and what are three examples?",
+    "back": "A stone fruit has a single hard pit at its center. Peaches, plums, and cherries are common examples. Stone fruits generally have a shorter shelf life once they ripen fully."
+  },
+  {
+    "id": 86,
+    "domain": "produce",
+    "front": "What distinguishes a pome fruit, and what are two examples?",
+    "back": "A pome fruit has a central core containing multiple small seeds. Apples and pears are the classic examples. Pome fruits generally store longer than berries or stone fruits."
+  },
+  {
+    "id": 87,
+    "domain": "produce",
+    "front": "What is the top commercial grade for fresh produce in Canada?",
+    "back": "The top commercial grade is Canada No. 1. It requires good shape, good color, and minimal defects. Lower grades such as Canada No. 2 and No. 3 allow more blemishes or size variation but are still wholesome and edible."
+  },
+  {
+    "id": 88,
+    "domain": "produce",
+    "front": "Is a produce grade the same thing as ripeness?",
+    "back": "No. Grading measures shape, size, color, and freedom from defects, not ripeness. A perfectly graded piece of fruit can still be underripe or overripe. Cooks must judge ripeness separately from the printed grade on the case."
+  },
+  {
+    "id": 89,
+    "domain": "produce",
+    "front": "What is a common exam trap about unblemished, flawless-looking produce?",
+    "back": "Bright, spotless skin does not always mean better quality. Some varieties are naturally spotted or textured when perfectly ripe. A flawless appearance can sometimes signal excessive handling, waxing, or artificial ripening instead of superior eating quality."
+  },
+  {
+    "id": 90,
+    "domain": "produce",
+    "front": "What signs indicate leafy greens are fresh?",
+    "back": "Fresh leafy greens should be crisp rather than wilted. There should be no yellowing and no slimy patches on the leaves. Wilting and sliminess signal the greens are breaking down and should be used quickly or rejected."
+  },
+  {
+    "id": 91,
+    "domain": "produce",
+    "front": "What temperature range is best for most vegetable storage?",
+    "back": "Most vegetables store best between 1 and 4 degrees Celsius. This range slows respiration and microbial growth without causing cold injury. Chill sensitive items like tomatoes and tropical fruit are the exception to this rule."
+  },
+  {
+    "id": 92,
+    "domain": "produce",
+    "front": "Why should tropical fruits like bananas, mangoes, and pineapples not be stored in the walk-in cooler?",
+    "back": "Tropical fruits are chill sensitive and should be stored around 10 to 13 degrees Celsius. Temperatures below that range cause chilling injury. Chilling injury shows up as pitting, discoloration, and the fruit failing to ripen properly."
+  },
+  {
+    "id": 93,
+    "domain": "produce",
+    "front": "Why should potatoes not be kept in the refrigerator?",
+    "back": "Potatoes are best stored in a cool, dry, dark place around 7 to 10 degrees Celsius, not refrigerated. Refrigeration below 7 degrees Celsius converts the potato's starch into sugar. This change affects both flavor and how the potato browns during cooking."
+  },
+  {
+    "id": 94,
+    "domain": "produce",
+    "front": "What humidity level do leafy greens and most vegetables need in storage?",
+    "back": "Leafy greens, herbs, and most vegetables need high humidity, typically 90 to 95 percent. High humidity prevents wilting and moisture loss from the leaves. This is why walk-in coolers have a high humidity crisper setting for this type of produce."
+  },
+  {
+    "id": 95,
+    "domain": "produce",
+    "front": "Why do onions and garlic need low humidity storage instead of high humidity?",
+    "back": "Onions, garlic, and winter squash need lower humidity and good air circulation. High humidity around these items promotes mold and rot rather than preventing spoilage. This is why they should never share a crisper setting with leafy greens."
+  },
+  {
+    "id": 96,
+    "domain": "produce",
+    "front": "What is ethylene gas and why does it matter in produce storage?",
+    "back": "Ethylene gas is a natural plant hormone released by many ripening fruits. It speeds up ripening in nearby produce and can trigger decay in ethylene sensitive items. Apples, bananas, pears, avocados, tomatoes, and melons are high ethylene producers."
+  },
+  {
+    "id": 97,
+    "domain": "produce",
+    "front": "Name three ethylene sensitive items that should be stored away from high ethylene producers.",
+    "back": "Leafy greens, herbs, and carrots are ethylene sensitive, along with broccoli and cucumbers. Stored near high ethylene items such as apples or bananas, they yellow, wilt, or develop bitter flavors faster. This is a classic exam trap involving mixed storage bins."
+  },
+  {
+    "id": 98,
+    "domain": "produce",
+    "front": "What does FIFO mean in produce storage?",
+    "back": "FIFO stands for first in, first out. New deliveries are placed behind or below existing stock, and older stock is used first. Dates should be labeled on containers whenever produce is transferred out of its original packaging."
+  },
+  {
+    "id": 99,
+    "domain": "produce",
+    "front": "Where should produce be stored relative to raw meat, poultry, and seafood in a shared walk-in?",
+    "back": "Produce should be stored above raw meat, poultry, and seafood, never below. This placement prevents drip contamination from raw proteins onto ready to eat items. Cross contamination is a real risk since much produce is eaten raw or lightly cooked."
+  },
+  {
+    "id": 100,
+    "domain": "produce",
+    "front": "Should produce with a peel that will be removed, like a melon or an orange, still be washed before cutting?",
+    "back": "Yes, all produce that will be eaten raw must be washed thoroughly under cold running water before cutting. This includes items with a peel or rind that will be discarded. A contaminated knife can transfer bacteria from the skin to the edible flesh during cutting."
+  },
+  {
+    "id": 101,
+    "domain": "produce",
+    "front": "What are the dimensions of a julienne cut?",
+    "back": "A julienne cut is a thin matchstick strip, roughly 3 millimeters by 3 millimeters by 5 centimeters. It is used for quick cooking methods and for garnish where a delicate, uniform strip is wanted. It is the starting cut for a brunoise."
+  },
+  {
+    "id": 102,
+    "domain": "produce",
+    "front": "What is a batonnet cut and what is it used for?",
+    "back": "A batonnet is a stick cut about 6 millimeters by 6 millimeters by 5 to 6 centimeters, larger than a julienne. It is the cut made before dicing vegetables into a large dice. Think of it as the intermediate step between a whole vegetable and a large dice cube."
+  },
+  {
+    "id": 103,
+    "domain": "produce",
+    "front": "How is a brunoise made?",
+    "back": "A brunoise is a fine dice made by first cutting a julienne, then dicing that julienne into tiny cubes about 3 millimeters on each side. It is the smallest standard dice used in classical technique. It is often used for garnish or fine flavor bases."
+  },
+  {
+    "id": 104,
+    "domain": "produce",
+    "front": "What is the chiffonade technique used for?",
+    "back": "Chiffonade is used on leafy herbs and greens such as basil or spinach. The leaves are stacked, rolled tightly, and sliced into thin ribbons. It creates a fine, even garnish shape that would be impossible to cut cleanly leaf by leaf."
+  },
+  {
+    "id": 105,
+    "domain": "produce",
+    "front": "What does a tourne cut look like and what is it typically used on?",
+    "back": "A tourne is a classic seven-sided football shape carved by hand. It is primarily used on root vegetables in classical presentations. It is one of the more advanced knife skills tested on the exam because it requires even, symmetrical faces."
+  },
+  {
+    "id": 106,
+    "domain": "produce",
+    "front": "Why does uneven knife cutting cause uneven cooking results?",
+    "back": "Uniform pieces of vegetable cook at the same rate because they have the same surface area and thickness. A mix of large and small pieces in the same pan finishes at different times. This produces some overcooked and some undercooked pieces in the same batch."
+  },
+  {
+    "id": 107,
+    "domain": "produce",
+    "front": "Why do cut apples, potatoes, and avocados turn brown after cutting?",
+    "back": "Cutting exposes the flesh to air, which triggers an enzyme reaction that causes browning. This happens fastest in apples, potatoes, and avocados among common produce items. The browning is a preparation issue, not a defect in the raw product itself."
+  },
+  {
+    "id": 108,
+    "domain": "produce",
+    "front": "How do cooks prevent cut apples or potatoes from browning?",
+    "back": "Cooks hold cut items in acidulated water, which is water with added lemon juice or vinegar. Tossing the item in a small amount of citrus juice works the same way. The acid slows the enzyme reaction that is responsible for the browning."
+  },
+  {
+    "id": 109,
+    "domain": "produce",
+    "front": "What pigment makes vegetables like spinach and broccoli green, and what causes it to dull?",
+    "back": "Chlorophyll is the green pigment in vegetables like spinach, broccoli, and green beans. It is sensitive to acid and to long cooking, turning a dull olive green under those conditions. It stays bright green when cooked quickly in a large volume of boiling salted water and then shocked in ice water."
+  },
+  {
+    "id": 110,
+    "domain": "produce",
+    "front": "What is shocking or refreshing, and why is it done?",
+    "back": "Shocking, or refreshing, means plunging just-cooked vegetables into ice water immediately after cooking. It halts the cooking process right away. This step locks in bright color and crisp texture, especially for green vegetables."
+  },
+  {
+    "id": 111,
+    "domain": "produce",
+    "front": "Which pigment group is found in carrots and winter squash, and how stable is it during cooking?",
+    "back": "Carotenoid pigments give carrots, sweet potatoes, and winter squash their orange, yellow, and red color. Carotenoids are relatively stable and hold their color well through most cooking methods. They stay vibrant even through long braising."
+  },
+  {
+    "id": 112,
+    "domain": "produce",
+    "front": "Why is red cabbage often cooked with vinegar or apple?",
+    "back": "Red cabbage contains anthocyanin pigments, which are sensitive to pH. Anthocyanins turn a brighter red in acidic conditions but can turn blue or gray in alkaline conditions. Adding vinegar or apple keeps the dish acidic enough to preserve the bright red color."
+  },
+  {
+    "id": 113,
+    "domain": "produce",
+    "front": "What happens to cauliflower if it is cooked in plain alkaline water, and how is this prevented?",
+    "back": "Cauliflower contains anthoxanthin pigments, which are white or pale and can turn yellow or gray in alkaline water. Adding a small amount of acid, such as lemon juice or cream of tartar, to the cooking liquid keeps it whiter. This same pigment group is also found in onions and potatoes."
+  },
+  {
+    "id": 114,
+    "domain": "produce",
+    "front": "Why is boiling considered the cooking method that leaches the most nutrients from vegetables?",
+    "back": "Boiling submerges vegetables directly in liquid, and water soluble vitamins like vitamin C and B vitamins dissolve out into that liquid. Steaming avoids this because the vegetable never sits directly in the water. This is why the leftover boiling liquid is sometimes saved for soup or sauce instead of discarded."
+  },
+  {
+    "id": 115,
+    "domain": "produce",
+    "front": "Why is a large volume of water used for blanching rather than a small pot?",
+    "back": "A large volume of water returns to the boil faster after vegetables are added. This keeps cooking time short and consistent. A small pot takes too long to return to boil, which extends cooking time and dulls the color of green vegetables."
+  },
+  {
+    "id": 116,
+    "domain": "produce",
+    "front": "Why is blanching water salted heavily, similar to sea water?",
+    "back": "Heavily salted water seasons the vegetable from the inside during the brief cooking time. It also helps preserve the vegetable's color. This is why blanching water is described as tasting close to the salinity of sea water."
+  },
+  {
+    "id": 117,
+    "domain": "produce",
+    "front": "What cooking method uses both searing and simmering in a covered pot with a small amount of liquid?",
+    "back": "Braising is a combination method using dry heat searing followed by moist heat simmering, covered, in a small amount of liquid. It suits firmer, more fibrous vegetables like cabbage, celery, and root vegetables. The long, gentle moist heat breaks down tough plant fibers over time."
+  },
+  {
+    "id": 118,
+    "domain": "produce",
+    "front": "Why should a saute pan not be overcrowded when cooking vegetables?",
+    "back": "Overcrowding a saute pan traps steam around the vegetables. Instead of searing and browning, the vegetables end up boiling in their own released moisture. This produces pale, soft results instead of the intended quick sear with retained texture and color."
+  },
+  {
+    "id": 119,
+    "domain": "produce",
+    "front": "What causes the browned, caramelized edges on roasted root vegetables?",
+    "back": "Roasting uses dry high heat in an oven, which caramelizes the natural sugars on the vegetable's surface. The browning also comes from the Maillard reaction between proteins and sugars at high heat. Together these reactions concentrate flavor and create the browned edges."
+  },
+  {
+    "id": 120,
+    "domain": "produce",
+    "front": "What usually causes waterlogged, mushy cooked vegetables?",
+    "back": "Waterlogged or mushy vegetables usually come from overcooking in boiling water. Storing cut vegetables in standing water for too long before service has the same effect. Both problems are preparation faults rather than defects in the raw produce itself."
+  },
+  {
+    "id": 121,
+    "domain": "stocks_broths_and_soups",
+    "front": "What is a stock, in classical culinary terms?",
+    "back": "An unthickened, unseasoned liquid made by simmering bones, vegetables, and aromatics in water. It is used as a building block for sauces, soups, and braises rather than served on its own."
+  },
+  {
+    "id": 122,
+    "domain": "stocks_broths_and_soups",
+    "front": "Why is stock never salted during production?",
+    "back": "Stock is frequently reduced later for sauces and other preparations, and salt concentrates as liquid evaporates. Leaving it unseasoned lets the cook control final seasoning in the finished dish."
+  },
+  {
+    "id": 123,
+    "domain": "stocks_broths_and_soups",
+    "front": "How does white stock differ from brown stock?",
+    "back": "White stock uses bones that are not browned and stays pale, used for veloute and light dishes. Brown stock uses roasted bones and caramelized mirepoix, giving it a dark colour and deep roasted flavour."
+  },
+  {
+    "id": 124,
+    "domain": "stocks_broths_and_soups",
+    "front": "Why is tomato paste cooked with the mirepoix before liquid is added in brown stock?",
+    "back": "Cooking removes the raw, harsh acidity of the tomato paste and builds deeper flavour and colour through caramelization. It should never be added raw at the end."
+  },
+  {
+    "id": 125,
+    "domain": "stocks_broths_and_soups",
+    "front": "What fish are used for classical fumet, and which are avoided?",
+    "back": "Lean, white, non-oily fish like sole, halibut, and turbot are used. Oily fish such as salmon and mackerel are avoided because their strong flavour and fat overwhelm the delicate stock."
+  },
+  {
+    "id": 126,
+    "domain": "stocks_broths_and_soups",
+    "front": "How long does a classical fish stock simmer, and why?",
+    "back": "About 20 to 30 minutes. Fish bones are soft and release flavour quickly, so overcooking makes the stock bitter and cloudy."
+  },
+  {
+    "id": 127,
+    "domain": "stocks_broths_and_soups",
+    "front": "What vegetables are typically avoided in vegetable stock, and why?",
+    "back": "Potatoes, beets, and cabbage family vegetables are avoided because they cloud the liquid or dominate the flavour with strong tastes and colours."
+  },
+  {
+    "id": 128,
+    "domain": "stocks_broths_and_soups",
+    "front": "How long does vegetable stock typically simmer?",
+    "back": "About 30 to 45 minutes. Vegetables release flavour quickly and become mushy or bitter if simmered too long, unlike heartier meat stocks."
+  },
+  {
+    "id": 129,
+    "domain": "stocks_broths_and_soups",
+    "front": "What is remouillage?",
+    "back": "A second, weaker stock made by resimmering already used bones a second time after the first stock has been strained off. It is typically used as cooking liquid for the next batch instead of plain water."
+  },
+  {
+    "id": 130,
+    "domain": "stocks_broths_and_soups",
+    "front": "Where does the gelatin in a stock come from?",
+    "back": "Collagen in connective tissue, cartilage, and bones converts to gelatin during long, slow simmering. This is why a properly made stock sets lightly when chilled."
+  },
+  {
+    "id": 131,
+    "domain": "stocks_broths_and_soups",
+    "front": "Which bones are prized for producing a stock with strong body?",
+    "back": "Knuckle bones, feet, and other collagen-rich cuts are prized because they contain more connective tissue than lean meat bones, producing more gelatin and body."
+  },
+  {
+    "id": 132,
+    "domain": "stocks_broths_and_soups",
+    "front": "What is the classical mirepoix ratio by weight?",
+    "back": "Two parts onion to one part carrot to one part celery. This ratio is commonly tested through weight calculation questions."
+  },
+  {
+    "id": 133,
+    "domain": "stocks_broths_and_soups",
+    "front": "What is a white mirepoix, and when is it used?",
+    "back": "A mirepoix that substitutes leeks and parsnips, sometimes with mushroom trim, for carrot. It keeps stocks and sauces pale, used when colour needs to stay light."
+  },
+  {
+    "id": 134,
+    "domain": "stocks_broths_and_soups",
+    "front": "What is the difference between a sachet d'epices and a bouquet garni?",
+    "back": "A sachet wraps peppercorns, bay leaf, thyme, and parsley stems in cheesecloth. A bouquet garni ties the same type of aromatics together with kitchen twine instead."
+  },
+  {
+    "id": 135,
+    "domain": "stocks_broths_and_soups",
+    "front": "Why are mirepoix vegetables added raw to a white stock instead of sauteed first?",
+    "back": "The long simmer time is enough to extract their flavour, and sauteing would add unwanted fat and colour to a stock meant to stay pale and clean."
+  },
+  {
+    "id": 136,
+    "domain": "stocks_broths_and_soups",
+    "front": "Why should stock always be started with cold water?",
+    "back": "Cold water allows impurities to be drawn out slowly and skimmed as the liquid heats gradually. Hot water shocks proteins, trapping impurities instead of releasing them."
+  },
+  {
+    "id": 137,
+    "domain": "stocks_broths_and_soups",
+    "front": "What is a consomme?",
+    "back": "A fully clarified, rich, flavourful stock or broth that has been made perfectly clear through a clarification process using a raft."
+  },
+  {
+    "id": 138,
+    "domain": "stocks_broths_and_soups",
+    "front": "What is a raft, or clearmeat, made from?",
+    "back": "Lean ground meat, egg whites, mirepoix, acidic ingredients such as tomato, and sometimes ice, combined to clarify a stock into consomme."
+  },
+  {
+    "id": 139,
+    "domain": "stocks_broths_and_soups",
+    "front": "How does a raft clarify a stock?",
+    "back": "The egg whites and meat proteins coagulate as the liquid heats, trapping impurities and cloudy particles as they rise to the surface and form a solid mat."
+  },
+  {
+    "id": 140,
+    "domain": "stocks_broths_and_soups",
+    "front": "Why is a small hole poked in the center of a consomme raft?",
+    "back": "It lets the consomme simmer gently and bubble up through the opening without disturbing the raft, so it can be ladled out carefully without breaking it."
+  },
+  {
+    "id": 141,
+    "domain": "stocks_broths_and_soups",
+    "front": "Why is ice sometimes added to a consomme raft mixture?",
+    "back": "Ice keeps the initial temperature low, slowing coagulation just enough to allow thorough mixing before the proteins set, producing a stronger raft."
+  },
+  {
+    "id": 142,
+    "domain": "stocks_broths_and_soups",
+    "front": "What causes a consomme to turn cloudy?",
+    "back": "The raft breaking apart, usually from boiling instead of simmering, stirring the liquid, or otherwise disturbing the raft during cooking or straining."
+  },
+  {
+    "id": 143,
+    "domain": "stocks_broths_and_soups",
+    "front": "What are the two broad soup families?",
+    "back": "Clear soups (broth, bouillon, consomme) which stay unthickened, and thick soups (puree, cream, bisque, chowder) which rely on added body."
+  },
+  {
+    "id": 144,
+    "domain": "stocks_broths_and_soups",
+    "front": "How does broth differ from stock?",
+    "back": "Broth is typically made with meat as well as bones, is often seasoned, and can be served directly. Stock stays unseasoned and is a building block for other dishes."
+  },
+  {
+    "id": 145,
+    "domain": "stocks_broths_and_soups",
+    "front": "What defines a puree soup?",
+    "back": "It is made by cooking starchy vegetables or legumes until soft, then pureeing them smooth to create body without adding dairy or roux."
+  },
+  {
+    "id": 146,
+    "domain": "stocks_broths_and_soups",
+    "front": "What is the classical base for a cream soup?",
+    "back": "A veloute, meaning stock lightly thickened with roux, then finished with cream or milk near the end of cooking to enrich and lighten it."
+  },
+  {
+    "id": 147,
+    "domain": "stocks_broths_and_soups",
+    "front": "What gives bisque its characteristic deep flavour?",
+    "back": "Roasted and simmered shellfish shells, most often lobster, shrimp, or crab. The shells are the real flavour source, not just the picked meat."
+  },
+  {
+    "id": 148,
+    "domain": "stocks_broths_and_soups",
+    "front": "What distinguishes chowder from puree soup?",
+    "back": "Chowder keeps distinct, visible chunks of ingredients like fish, shellfish, and potato, while puree soup is blended completely smooth."
+  },
+  {
+    "id": 149,
+    "domain": "stocks_broths_and_soups",
+    "front": "What is minestrone?",
+    "back": "A chunky Italian vegetable soup that often includes pasta or rice among its vegetables and legumes, a classic national soup."
+  },
+  {
+    "id": 150,
+    "domain": "stocks_broths_and_soups",
+    "front": "How is French onion soup classically finished?",
+    "back": "With a cheese topped crouton placed over caramelized onions simmered in a rich beef stock base."
+  },
+  {
+    "id": 151,
+    "domain": "stocks_broths_and_soups",
+    "front": "What happens to a roux's thickening power as it darkens from white to brown?",
+    "back": "It decreases, because prolonged cooking breaks down some of the flour's starch structure. A brown roux thickens less per unit weight than a white roux."
+  },
+  {
+    "id": 152,
+    "domain": "stocks_broths_and_soups",
+    "front": "What is a slurry, and how is it used?",
+    "back": "A raw starch, usually cornstarch or arrowroot, dissolved in cold liquid, then whisked into hot soup for fast, last minute thickening."
+  },
+  {
+    "id": 153,
+    "domain": "stocks_broths_and_soups",
+    "front": "What is a liaison, and why must it be tempered?",
+    "back": "A mixture of egg yolks and cream used to enrich and thicken a soup near the end. It must be tempered gradually with hot liquid first, or the raw yolks will scramble."
+  },
+  {
+    "id": 154,
+    "domain": "stocks_broths_and_soups",
+    "front": "What happens if a liaison-finished soup is boiled after the liaison is added?",
+    "back": "The egg yolks curdle, ruining the texture. A liaison-finished soup must be held below a simmer, never brought back to a boil."
+  },
+  {
+    "id": 155,
+    "domain": "stocks_broths_and_soups",
+    "front": "What is beurre manie, and when should it be used?",
+    "back": "A raw, uncooked mixture of equal parts softened butter and flour, whisked into a simmering liquid for small, last minute thickening adjustments, not for a whole large batch."
+  },
+  {
+    "id": 156,
+    "domain": "stocks_broths_and_soups",
+    "front": "How does puree act as a thickener in soup?",
+    "back": "Cooked starchy vegetables or legumes are blended smooth, and their natural starch provides body without needing any added fat or flour."
+  },
+  {
+    "id": 157,
+    "domain": "stocks_broths_and_soups",
+    "front": "What is the most common cause of cloudy stock?",
+    "back": "Boiling the stock instead of maintaining a gentle simmer, which agitates fat and impurities into the liquid instead of letting them rise cleanly for skimming."
+  },
+  {
+    "id": 158,
+    "domain": "stocks_broths_and_soups",
+    "front": "How should an over-salted, over-reduced stock be corrected?",
+    "back": "Dilute it gradually with more unseasoned liquid or stock. Never add sugar or acid to mask the excess salt."
+  },
+  {
+    "id": 159,
+    "domain": "stocks_broths_and_soups",
+    "front": "What usually causes a cream soup to split or break?",
+    "back": "Adding the dairy too early and boiling it too long, adding it too acidic, or a temperature change that is too sudden."
+  },
+  {
+    "id": 160,
+    "domain": "stocks_broths_and_soups",
+    "front": "What does a greasy, oily surface on a finished stock usually indicate, and how is it fixed?",
+    "back": "It usually means the stock boiled at some point, emulsifying fat into the liquid. Fix it by skimming carefully and simmering gentler with more frequent skimming next time."
+  },
+  {
+    "id": 161,
+    "domain": "sauces",
+    "front": "What are the five mother sauces?",
+    "back": "The five mother sauces are bechamel, veloute, espagnole, tomato, and hollandaise. Each one is a base sauce that a cook builds many smaller derivative sauces from. Learning these five gives a cook the foundation for almost every classic sauce on a menu."
+  },
+  {
+    "id": 162,
+    "domain": "sauces",
+    "front": "What is bechamel and how is it made?",
+    "back": "Bechamel is a white sauce made by whisking scalded milk into a white roux. It is usually seasoned with a pinch of nutmeg, salt, and white pepper so no dark specks show. It forms the base for cheese sauces, cream soups, and gratins."
+  },
+  {
+    "id": 163,
+    "domain": "sauces",
+    "front": "What is veloute and how is it made?",
+    "back": "Veloute is made by whisking a light stock, such as chicken, veal, or fish stock, into a blond roux. The name comes from the French word for velvety, describing its smooth texture. It is the base for sauces like supreme and allemande."
+  },
+  {
+    "id": 164,
+    "domain": "sauces",
+    "front": "What is espagnole and how is it made?",
+    "back": "Espagnole is a brown sauce made from brown stock, a brown roux, and mirepoix that has been caramelized, plus tomato product for color and depth. It is the richest and most time-intensive of the mother sauces. Demi-glace is made by reducing espagnole with more brown stock."
+  },
+  {
+    "id": 165,
+    "domain": "sauces",
+    "front": "What is tomato sauce as a mother sauce, and how does it differ from an Italian pasta sauce?",
+    "back": "As a mother sauce, tomato sauce is built from tomatoes, mirepoix, and often a small amount of roux or pork for body, then simmered and strained. It is used as a base for many derivative sauces rather than served alone on pasta. This classical version is thicker and less seasoned than a typical Italian marinara."
+  },
+  {
+    "id": 166,
+    "domain": "sauces",
+    "front": "What is hollandaise and how is it made?",
+    "back": "Hollandaise is an emulsified sauce made by whisking egg yolks over gentle heat with a small amount of water until they thicken, then slowly whisking in warm clarified butter. It is finished with lemon juice, salt, and cayenne. It is the only mother sauce that is not thickened with roux."
+  },
+  {
+    "id": 167,
+    "domain": "sauces",
+    "front": "What is bechamel's most famous derivative sauce?",
+    "back": "Mornay sauce is bechamel with grated cheese, usually gruyere or parmesan, melted in. It is used to top gratins, macaroni and cheese, and vegetable dishes. Other bechamel derivatives include cream sauce and soubise, which adds cooked onion puree."
+  },
+  {
+    "id": 168,
+    "domain": "sauces",
+    "front": "What is supreme sauce?",
+    "back": "Supreme sauce is a derivative of chicken veloute finished with cream and sometimes mushroom essence and lemon juice. It is classically served with poultry. Its light color and rich texture make it a signature veloute derivative."
+  },
+  {
+    "id": 169,
+    "domain": "sauces",
+    "front": "What is allemande sauce?",
+    "back": "Allemande sauce is a veloute derivative enriched with a liaison of egg yolk and cream. The liaison is stirred in off the heat so the yolk does not scramble. It is used with poultry, veal, and egg dishes."
+  },
+  {
+    "id": 170,
+    "domain": "sauces",
+    "front": "What is bordelaise sauce?",
+    "back": "Bordelaise is an espagnole derivative made by reducing red wine with shallots and bone marrow or beef trimmings, then finishing with demi-glace. It is classically served with grilled or roasted beef. The reduction step concentrates flavor before the demi-glace is added."
+  },
+  {
+    "id": 171,
+    "domain": "sauces",
+    "front": "What is chasseur sauce?",
+    "back": "Chasseur, meaning hunter style, is an espagnole derivative made with mushrooms, shallots, white wine, tomato, and demi-glace. It is often finished with fresh tarragon and chervil. It pairs well with chicken, veal, and game."
+  },
+  {
+    "id": 172,
+    "domain": "sauces",
+    "front": "What is creole sauce?",
+    "back": "Creole sauce is a tomato sauce derivative built with the trinity of onion, celery, and bell pepper along with garlic, herbs, and sometimes a touch of cayenne. It has a chunkier, more vegetable-forward texture than plain tomato sauce. It is common with seafood and rice dishes."
+  },
+  {
+    "id": 173,
+    "domain": "sauces",
+    "front": "What is bearnaise sauce?",
+    "back": "Bearnaise is hollandaise with the lemon juice replaced by a reduction of vinegar, wine, shallot, and tarragon. This swap gives bearnaise its herbal, tangy flavour profile instead of hollandaise's cleaner lemon character. Choron sauce is bearnaise with tomato paste added."
+  },
+  {
+    "id": 174,
+    "domain": "sauces",
+    "front": "What is choron sauce?",
+    "back": "Choron sauce is bearnaise with tomato paste or tomato concasse folded in, giving it a pale pink color. It skips the tarragon garnish that bearnaise usually finishes with. It is served with grilled meats and eggs."
+  },
+  {
+    "id": 175,
+    "domain": "sauces",
+    "front": "What is the difference between a temporary and a permanent emulsion?",
+    "back": "A temporary emulsion, like a vinaigrette, separates on its own within minutes once whisking stops. A permanent emulsion, like mayonnaise or hollandaise, stays combined because enough emulsifier has bound the fat and liquid together. The difference comes down to how much emulsifier is present relative to the fat."
+  },
+  {
+    "id": 176,
+    "domain": "sauces",
+    "front": "What role does an emulsifier play in a sauce?",
+    "back": "An emulsifier is a molecule that has one end attracted to fat and one end attracted to water, so it lets the two normally separate liquids blend and stay blended. Egg yolk lecithin is the classic emulsifier in hollandaise and mayonnaise. Mustard also acts as an emulsifier in many vinaigrettes."
+  },
+  {
+    "id": 177,
+    "domain": "sauces",
+    "front": "Why does hollandaise sometimes break?",
+    "back": "Hollandaise breaks when the butter is added too fast, the mixture overheats and the yolks scramble, or there is not enough liquid left to hold the fat in suspension. Any of these causes the emulsion to separate into pools of butterfat. Breaking is the most common technical failure point in an a la carte kitchen."
+  },
+  {
+    "id": 178,
+    "domain": "sauces",
+    "front": "How does a cook fix a broken hollandaise?",
+    "back": "The cook whisks a fresh egg yolk with a splash of warm water in a clean bowl, then slowly whisks the broken sauce back in a little at a time. The small amount of fresh yolk supplies new emulsifier to rebind the fat. Working slowly and off direct heat prevents the rescue from breaking again."
+  },
+  {
+    "id": 179,
+    "domain": "sauces",
+    "front": "What causes mayonnaise to break, and how is it fixed?",
+    "back": "Mayonnaise breaks when oil is added too quickly for the yolk to absorb it, overwhelming the emulsifier. It is fixed the same way as hollandaise, by whisking a fresh yolk or a spoonful of water in a clean bowl and slowly beating the broken mixture back in. Adding the oil in a thin, steady stream from the start helps prevent the break in the first place."
+  },
+  {
+    "id": 180,
+    "domain": "sauces",
+    "front": "What is a roux and what are its three colors?",
+    "back": "A roux is equal parts fat and flour cooked together and used to thicken sauces. White roux is cooked briefly with no color, blond roux is cooked slightly longer to a pale straw color, and brown roux is cooked much longer for a nutty flavor and dark color. As roux gets darker it loses thickening power but gains flavor."
+  },
+  {
+    "id": 181,
+    "domain": "sauces",
+    "front": "Why does a darker roux thicken less than a lighter roux?",
+    "back": "Longer cooking breaks down more of the starch molecules in the flour, and broken starch cannot absorb as much liquid. That means a brown roux needs to be used in a larger quantity than a white roux to reach the same thickness. This tradeoff is why classical espagnole uses more roux than bechamel for a similar consistency."
+  },
+  {
+    "id": 182,
+    "domain": "sauces",
+    "front": "What is a slurry and when is it used?",
+    "back": "A slurry is cornstarch or another starch mixed with cold liquid until smooth, then whisked into a simmering sauce to thicken it quickly. It is often used for a fast pan sauce or a Asian-style sauce that needs a clear, glossy finish. Unlike roux, a slurry adds almost no flavor of its own."
+  },
+  {
+    "id": 183,
+    "domain": "sauces",
+    "front": "What is a beurre manie and how does it differ from a roux?",
+    "back": "Beurre manie is equal parts soft raw butter and flour kneaded together into a paste, then whisked into a finished sauce a little at a time to thicken it. Unlike roux, the flour in beurre manie is never cooked before it is added. It is useful for a last minute adjustment when a sauce is too thin."
+  },
+  {
+    "id": 184,
+    "domain": "sauces",
+    "front": "What is a liaison and how is it added to a sauce?",
+    "back": "A liaison is a mixture of egg yolk and heavy cream used to thicken and enrich a sauce, such as allemande. The sauce is tempered into the liaison gradually, then the liaison is stirred back into the sauce off direct heat. Direct high heat after adding a liaison will scramble the yolk and ruin the sauce."
+  },
+  {
+    "id": 185,
+    "domain": "sauces",
+    "front": "What is reduction as a thickening method?",
+    "back": "Reduction thickens a sauce by simmering it uncovered so water evaporates and the remaining solids and flavor become more concentrated. It needs no starch and produces a sauce with intense, pure flavor. Stocks reduced this way become the base for demi-glace and many pan sauces."
+  },
+  {
+    "id": 186,
+    "domain": "sauces",
+    "front": "What is a pan sauce and how is it typically built?",
+    "back": "A pan sauce is made by using the fond, the browned bits left in a pan after searing meat, as the flavor base. The cook deglazes the pan with wine or stock, scraping up the fond, then reduces the liquid and often finishes it by swirling in cold butter. This is a fast, a la carte technique used constantly on the line."
+  },
+  {
+    "id": 187,
+    "domain": "sauces",
+    "front": "What does it mean to deglaze a pan?",
+    "back": "Deglazing means adding liquid, usually wine or stock, to a hot pan to loosen and dissolve the browned fond stuck to the bottom. The liquid picks up all that concentrated flavor as it simmers. It is the first step of nearly every classic pan sauce."
+  },
+  {
+    "id": 188,
+    "domain": "sauces",
+    "front": "What is monter au beurre?",
+    "back": "Monter au beurre means finishing a sauce by whisking in cold butter off the heat until it melts into a glossy, silky emulsion. The butter must be cold and added gradually so it emulsifies instead of just melting and separating. It adds shine, richness, and body without needing more starch."
+  },
+  {
+    "id": 189,
+    "domain": "sauces",
+    "front": "What is a coulis?",
+    "back": "A coulis is a smooth, pourable puree, usually made from cooked or raw fruit or vegetables, strained for a silky texture. It needs no roux or starch because the pureed solids themselves give it body. Coulis are common on contemporary plates as a bright color and flavor accent."
+  },
+  {
+    "id": 190,
+    "domain": "sauces",
+    "front": "What is a jus and how does it differ from a classical sauce like espagnole?",
+    "back": "A jus is a light, natural sauce made from the pan drippings or a reduced stock, without a roux or heavy thickener. It relies on natural gelatin and reduction for body rather than added starch. This makes jus lighter and cleaner tasting than a roux-thickened classical sauce."
+  },
+  {
+    "id": 191,
+    "domain": "sauces",
+    "front": "What is a compound butter and how is it used?",
+    "back": "A compound butter is softened butter mixed with herbs, spices, citrus, or other flavorings, then rolled into a log and chilled. A slice is placed on top of a hot protein where it melts into an instant sauce. It is a fast, simple way to add flavor and richness without any cooking step at service."
+  },
+  {
+    "id": 192,
+    "domain": "sauces",
+    "front": "Why do contemporary chefs often prefer jus and coulis over classical roux-based sauces?",
+    "back": "Jus and coulis are lighter, lower in starch, and let the natural flavor of the main ingredient come through more clearly. They also plate cleanly with modern presentation styles that favor drizzles and dots instead of sauce pooled under the protein. This reflects a broader shift toward lighter, more ingredient-focused modern cuisine."
+  },
+  {
+    "id": 193,
+    "domain": "sauces",
+    "front": "What does it mean to balance a sauce, and what are the main elements a cook adjusts?",
+    "back": "Salt, acid, sweetness, bitterness, and umami are the five elements a cook balances in a finished sauce. Too much of one element, such as acid without enough sweetness to round it out, makes a sauce taste flat or harsh. Tasting and adjusting throughout cooking, not just at the end, is the professional standard."
+  },
+  {
+    "id": 194,
+    "domain": "sauces",
+    "front": "Why is acid important in sauce balancing?",
+    "back": "Acid, from ingredients like wine, vinegar, or citrus, cuts through richness and fat so a sauce does not taste heavy or flat. It also brightens and sharpens other flavors in the dish. A rich sauce like bearnaise or a pan sauce with butter almost always needs some acid to stay balanced."
+  },
+  {
+    "id": 195,
+    "domain": "sauces",
+    "front": "What is nappe consistency?",
+    "back": "Nappe describes a sauce that is thick enough to coat the back of a spoon and hold a clean line when a finger is drawn through it. It is the classic visual test cooks use to judge whether a sauce is properly thickened. A sauce thinner than nappe will run right off food instead of clinging to it."
+  },
+  {
+    "id": 196,
+    "domain": "sauces",
+    "front": "What is clarified butter and why is it used in hollandaise?",
+    "back": "Clarified butter is butter that has had its milk solids and water removed, leaving pure butterfat. It is used in hollandaise because the milk solids and water would make the emulsion less stable and could scorch during the slow whisking process. Clarified butter also has a higher smoke point than whole butter."
+  },
+  {
+    "id": 197,
+    "domain": "sauces",
+    "front": "What is soubise sauce?",
+    "back": "Soubise is a bechamel derivative made by cooking onions until very soft, pureeing them, and blending them into the bechamel base. It has a mild, sweet onion flavor and a smooth texture. It is traditionally served with lamb, veal, or egg dishes."
+  },
+  {
+    "id": 198,
+    "domain": "sauces",
+    "front": "What is a fish veloute typically called and used for?",
+    "back": "Fish veloute is made with fish stock instead of chicken or veal stock, and its derivative sauces are used almost exclusively with fish and seafood dishes. A common derivative is white wine sauce, which adds a reduction of white wine and shallots. Matching the stock to the protein keeps the sauce flavor appropriate to the dish."
+  },
+  {
+    "id": 199,
+    "domain": "sauces",
+    "front": "What is demi-glace?",
+    "back": "Demi-glace is made by combining espagnole sauce with additional brown stock and reducing the mixture by half, producing a very concentrated, glossy brown sauce. It serves as the base for many classic meat sauce derivatives, such as bordelaise and chasseur. Because it takes so long to make, many modern kitchens use a quicker jus-based substitute called a jus lie."
+  },
+  {
+    "id": 200,
+    "domain": "sauces",
+    "front": "What is a jus lie?",
+    "back": "A jus lie is a light brown sauce made from stock lightly thickened with a small amount of cornstarch slurry rather than the long classical roux and reduction process used for demi-glace. It gives a similar glossy, coating texture much faster. Many modern kitchens use it as a practical substitute for true demi-glace."
+  },
+  {
+    "id": 201,
+    "domain": "sauces",
+    "front": "Why must butter be added slowly when making hollandaise or bearnaise?",
+    "back": "Adding butter slowly gives the egg yolk time to absorb and emulsify each addition of fat before more is added. If the butter is poured in too fast, the yolk cannot coat all of it and the sauce splits into separate pools of fat and liquid. Whisking constantly while pouring in a thin, steady stream is the key technique."
+  },
+  {
+    "id": 202,
+    "domain": "sauces",
+    "front": "What temperature range should hollandaise be held at, and why?",
+    "back": "Hollandaise cannot be safely hot-held above 60 degrees C without breaking, so it is typically held around 50 to 55 degrees C for a short service window of 1 to 2 hours and then discarded rather than replenished. This warm holding range sits inside the danger zone, which is why hollandaise carries more food safety risk than a standard hot-held sauce."
+  },
+  {
+    "id": 203,
+    "domain": "sauces",
+    "front": "What is the difference between veloute and espagnole in terms of stock and color?",
+    "back": "Veloute uses a light stock, such as chicken or veal, and a blond roux, giving it a pale ivory color. Espagnole uses a brown stock, a brown roux, and caramelized mirepoix with tomato, giving it a deep brown color and richer flavor. The choice of stock and roux color is what separates these two mother sauces."
+  },
+  {
+    "id": 204,
+    "domain": "sauces",
+    "front": "Why is tomato sauce classified as a mother sauce even though it seems simple?",
+    "back": "Tomato sauce is classified as a mother sauce because, like the other four, it serves as the base for a whole family of derivative sauces rather than being just a finished product on its own. Classical versions were even thickened with roux to fit the same technical category as the other mothers. This structural role, not the ingredient list, is why it earns mother sauce status."
+  },
+  {
+    "id": 205,
+    "domain": "sauces",
+    "front": "What is the general rule for rescuing any broken emulsified sauce?",
+    "back": "The general rule is to start fresh with a small amount of emulsifier, usually an egg yolk or a splash of liquid, in a clean bowl, then slowly whisk the broken sauce back into it in small additions. Working gradually and off high heat gives the new emulsifier time to bind the fat properly. This same rescue technique works for hollandaise, bearnaise, mayonnaise, and other yolk-based emulsions."
+  },
+  {
+    "id": 206,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What percentage of milk fat defines whole milk in Canada?",
+    "back": "Whole milk contains about 3.25 percent milk fat. This gives it more richness and mouthfeel than lower fat milks like 2 percent or skim. It is the standard base for many classic sauces."
+  },
+  {
+    "id": 207,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What minimum fat content does heavy whipping cream need to whip into stable peaks?",
+    "back": "Whipping cream needs at least 30 percent milk fat to whip into stable peaks. The fat globules trap air as they are agitated, and enough fat must be present for the structure to hold its shape. Cream below this fat percentage, such as half and half, will not whip into stable peaks no matter how long it is beaten."
+  },
+  {
+    "id": 208,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What is the approximate water content of standard commercial butter?",
+    "back": "Standard butter is about 80 percent milk fat and roughly 16 to 18 percent water, with the remainder milk solids. This water content is why butter spatters when heated and why clarifying it removes water and solids."
+  },
+  {
+    "id": 209,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What is a fresh unripened cheese?",
+    "back": "A fresh unripened cheese, like ricotta or fresh mozzarella, is eaten shortly after production without an aging or ripening period. It has high moisture and a mild, delicate flavor compared to aged cheeses."
+  },
+  {
+    "id": 210,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "Which two bacteria traditionally culture standard yogurt?",
+    "back": "Lactobacillus bulgaricus and Streptococcus thermophilus work together to ferment lactose into lactic acid. This thickens the milk and creates yogurt's characteristic tangy flavor and probiotic content."
+  },
+  {
+    "id": 211,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "How is most commercial cultured buttermilk made today?",
+    "back": "Commercial cultured buttermilk is low-fat or skim milk fermented with lactic acid bacteria, similar to yogurt culturing. This differs from traditional buttermilk, which was the liquid left over from churning butter."
+  },
+  {
+    "id": 212,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What is the key difference between evaporated milk and sweetened condensed milk?",
+    "back": "Evaporated milk is unsweetened concentrated milk, while sweetened condensed milk has sugar added, which also acts as a preservative. They are not interchangeable in most recipes."
+  },
+  {
+    "id": 213,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What makes UHT milk shelf-stable before it is opened?",
+    "back": "Ultra high temperature processing heats milk briefly to around 138 degrees Celsius, destroying nearly all microorganisms and spores. Sealed in aseptic packaging, this lets it sit unrefrigerated for months, though it still needs refrigeration once opened."
+  },
+  {
+    "id": 214,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "Why is soy milk considered the closest plant-based match to cow's milk?",
+    "back": "Soy milk has a protein content per serving that closely matches dairy milk, since soybeans are naturally high in protein. Most other plant milks, like almond or rice milk, contain far less protein."
+  },
+  {
+    "id": 215,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "Why is almond milk a poor one to one substitute in a dairy cream sauce?",
+    "back": "Almond milk is mostly water with a small amount of almond solids, so it is naturally thin with little fat or protein. A sauce made with it will lack the richness of a dairy version unless extra fat or thickener is added."
+  },
+  {
+    "id": 216,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "Why is oat milk popular for coffee and beverage service?",
+    "back": "Oat milk's natural starches and fiber let it steam and foam into a stable, creamy microfoam similar to steamed dairy milk. This makes it a favored choice for lattes and cappuccinos."
+  },
+  {
+    "id": 217,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What is the difference between canned coconut milk and carton coconut milk beverage?",
+    "back": "Canned coconut milk is a concentrated extraction with a high fat content, giving richness to curries and braises. Carton coconut milk beverage is diluted and lighter, meant for drinking like regular milk."
+  },
+  {
+    "id": 218,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "Which plant milks have the highest protein content, closest to dairy milk?",
+    "back": "Soy milk and pea protein milk are made from protein-rich legumes and have protein levels closest to dairy milk. This makes them the better choice when a recipe depends on protein for structure."
+  },
+  {
+    "id": 219,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What mineral gives the eggshell its rigid structure?",
+    "back": "Calcium carbonate forms the porous crystal structure of the eggshell. The pores allow gas exchange but also let the shell absorb odors, which is why eggs should be stored away from strong smelling foods."
+  },
+  {
+    "id": 220,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What does a thick, gel-like egg white usually indicate?",
+    "back": "A thick inner albumen indicates a fresh egg. As eggs age, enzymes break down the proteins that create this thickness, causing the white to spread thin and watery when cracked."
+  },
+  {
+    "id": 221,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What are the chalazae and what do they do?",
+    "back": "The chalazae are twisted protein strands that anchor and center the yolk within the surrounding albumen. Prominent, visible chalazae are another sign that an egg is fresh."
+  },
+  {
+    "id": 222,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What does Canadian Grade A mean for shell eggs?",
+    "back": "Grade A is the top quality tier sold at retail and used in most professional kitchens. It requires a clean uncracked shell, a small air cell, and firm, well-centered yolks with thick albumen."
+  },
+  {
+    "id": 223,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What egg size do standard Canadian recipes assume by default?",
+    "back": "Large eggs are the default assumed in standardized Canadian recipes and baking formulas. Using a different size, like small or jumbo, without adjusting quantities can throw off liquid ratios in baked goods."
+  },
+  {
+    "id": 224,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What does candling let an egg inspector check?",
+    "back": "Candling shines a bright light through the shell so an inspector can see air cell size, yolk position, and detect blood spots, all without breaking the egg. It is a key step in Canadian egg grading."
+  },
+  {
+    "id": 225,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "At what temperature should shell eggs be refrigerated?",
+    "back": "Shell eggs should be held consistently between 0 and 4 degrees Celsius. This slows bacterial growth and preserves interior quality without freezing the eggs solid."
+  },
+  {
+    "id": 226,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What water temperature is used for poaching eggs?",
+    "back": "A gentle simmer around 82 to 88 degrees Celsius is ideal for poaching. A full rolling boil breaks the fragile white into ragged strands instead of a neat, compact shape."
+  },
+  {
+    "id": 227,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What controls whether a boiled egg is soft or hard boiled?",
+    "back": "Cooking time controls how much the yolk and white proteins coagulate. Shorter times leave the yolk liquid for soft boiled, while longer times fully set both the white and yolk for hard boiled."
+  },
+  {
+    "id": 228,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What is a sunny side up egg?",
+    "back": "A sunny side up egg is fried on one side only, leaving the yolk completely liquid and the top unset. It is not flipped, unlike over easy, over medium, or over hard styles."
+  },
+  {
+    "id": 229,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What texture do slow, gently cooked scrambled eggs have?",
+    "back": "Slow cooking over low heat with frequent stirring produces small, soft, creamy curds with a moist finish. High heat instead squeezes out moisture and creates large, dry, rubbery curds."
+  },
+  {
+    "id": 230,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What cooking method category do shirred eggs belong to?",
+    "back": "Shirred eggs are dry heat baked in a buttered dish, cooked gently by the oven's ambient heat rather than direct contact with liquid. This differs from poaching or frying."
+  },
+  {
+    "id": 231,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What compound in egg yolk makes it an effective emulsifier?",
+    "back": "Lecithin is a phospholipid in egg yolk with both water attracting and fat attracting properties. It binds oil and water together, making sauces like mayonnaise and hollandaise stable."
+  },
+  {
+    "id": 232,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "How do whipped egg whites provide leavening in a souffle?",
+    "back": "Whipping unfolds the egg white proteins, which then link together into a network that traps air bubbles. That trapped air expands with oven heat, giving the souffle its rise."
+  },
+  {
+    "id": 233,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "Why are eggs effective as a binder in meatloaf or croquettes?",
+    "back": "Egg proteins coagulate with heat, setting into a firm structure that holds surrounding ingredients together. This same property is what makes egg wash help breading stick to a cutlet."
+  },
+  {
+    "id": 234,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "Which meringue types are safe to use uncooked, such as in buttercream?",
+    "back": "Swiss and Italian meringue both heat the egg whites to a safe temperature during preparation, over a water bath or with hot sugar syrup. French meringue uses raw whipped whites and is not heat treated."
+  },
+  {
+    "id": 235,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "How can a kitchen safely serve a raw egg Caesar dressing?",
+    "back": "Use pasteurized shell eggs or pasteurized liquid egg product. Pasteurization heat treats the eggs enough to reduce Salmonella risk while keeping them raw in texture for uncooked applications."
+  },
+  {
+    "id": 236,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What should a cook do with a shell egg that has a hairline crack?",
+    "back": "A cracked egg should be discarded or used only in a dish that will be fully cooked to a safe internal temperature. Washing the crack does not remove the contamination risk."
+  },
+  {
+    "id": 237,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "How should the kitchen respond to a lactose intolerant guest?",
+    "back": "Offer a lactose-free dairy product or a suitable plant-based substitute. Lactose intolerance is a digestive sensitivity to milk sugar, not a protein allergy, so safe substitution options exist."
+  },
+  {
+    "id": 238,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "Why do baked custards use a water bath, or bain-marie?",
+    "back": "The surrounding hot water insulates the custard and provides gentle, even heat, preventing the egg proteins from overcooking and curdling into a grainy, weeping texture."
+  },
+  {
+    "id": 239,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "Why must a hot held egg dish be checked continuously, not just once?",
+    "back": "Temperatures can drift over an extended service period, so the dish must stay continuously above the minimum hot holding temperature the entire time, not just at the start of service."
+  },
+  {
+    "id": 240,
+    "domain": "dairy_plant_based_alternatives_and_eggs",
+    "front": "What causes the gray-green ring around an overcooked hard boiled egg yolk?",
+    "back": "Overcooking releases hydrogen sulfide from the white, which reacts with iron in the yolk to form ferrous sulfide. Cooling the eggs promptly in an ice water bath helps prevent this ring."
+  },
+  {
+    "id": 241,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "What flour is used for most dried commercial pasta, and what flour is used for most fresh Italian pasta?",
+    "back": "Dried pasta uses durum wheat semolina, giving a firm bite and long shelf life. Fresh pasta typically uses soft wheat or all purpose flour combined with whole eggs."
+  },
+  {
+    "id": 242,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Standard fresh egg pasta ratio",
+    "back": "About one whole egg per 100 grams of flour. Kitchens often add extra yolks for a richer colour and firmer, more tender dough."
+  },
+  {
+    "id": 243,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Why do extra egg yolks make pasta dough firmer and easier to roll thin?",
+    "back": "Yolks add fat and emulsifying power without adding as much water as whole eggs. This lowers overall hydration, producing a firmer, more workable dough."
+  },
+  {
+    "id": 244,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "What does kneading develop in pasta dough?",
+    "back": "Gluten, the protein network that gives dough its elasticity. This lets the dough stretch thin without tearing once it is rested and rolled."
+  },
+  {
+    "id": 245,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Why wrap pasta dough tightly in plastic before resting?",
+    "back": "It prevents air exposure from forming a dry skin on the surface. A dry skin can cause tough spots and cracking when the dough is rolled out."
+  },
+  {
+    "id": 246,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Semolina and water dough vs plain egg dough",
+    "back": "Semolina and water dough is eggless and produces a chewier, more rustic texture, used for shapes like orecchiette. Plain egg dough is the base for tagliatelle, fettuccine, and lasagna sheets."
+  },
+  {
+    "id": 247,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "How does squid ink affect pasta dough hydration?",
+    "back": "Squid ink adds moisture to the dough. Slightly less egg or liquid is usually needed to keep the dough at a workable consistency."
+  },
+  {
+    "id": 248,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Why roll pasta gradually through decreasing thickness settings instead of jumping to the thinnest?",
+    "back": "Sudden compression can tear the dough or leave it unevenly thick. Gradual progression keeps the sheet consistent and intact."
+  },
+  {
+    "id": 249,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Rolled, extruded, and hand formed pasta: give an example of each",
+    "back": "Rolled: fettuccine or lasagna sheets cut from a flattened sheet. Extruded: bucatini or rigatoni forced through a die. Hand formed: orecchiette or cavatelli shaped by hand."
+  },
+  {
+    "id": 250,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Is potato gnocchi a true pasta?",
+    "back": "No. Gnocchi is a dumpling made from riced cooked potato bound with flour and egg, not a kneaded wheat dough like true pasta."
+  },
+  {
+    "id": 251,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "What happens if gnocchi dough is overworked?",
+    "back": "Overworking develops too much gluten from the flour in the dough. This produces a dense, rubbery texture instead of a light, tender gnocchi."
+  },
+  {
+    "id": 252,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "What gives ramen noodles their yellow colour and springy bite?",
+    "back": "Kansui, an alkaline mineral water mixed with wheat flour. It creates the characteristic firm, springy chew of ramen."
+  },
+  {
+    "id": 253,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Udon vs ramen noodles",
+    "back": "Udon is a thick, chewy wheat noodle made without kansui, giving it a softer, milder character. Ramen uses kansui for a springier, more alkaline bite."
+  },
+  {
+    "id": 254,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "What are rice vermicelli, pad thai noodles, and rice sticks made from?",
+    "back": "Rice flour and water. They are gluten free and are usually soaked in warm water before cooking rather than boiled from dry."
+  },
+  {
+    "id": 255,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Why should rice noodles usually be soaked instead of boiled like wheat noodles?",
+    "back": "Prolonged boiling breaks down their starch structure, making them mushy or causing them to break apart. Soaking gently, then finishing by stir fry or brief blanch, preserves their texture."
+  },
+  {
+    "id": 256,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Glass noodles or cellophane noodles",
+    "back": "Made from mung bean starch. They turn translucent when cooked and have a springy, slightly chewy texture."
+  },
+  {
+    "id": 257,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Soba noodles",
+    "back": "Made from buckwheat flour, sometimes blended with wheat flour. They have a nutty flavour and greyish brown colour, and can be served cold with dipping sauce or hot in broth."
+  },
+  {
+    "id": 258,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "How is ravioli formed?",
+    "back": "Small mounds of filling are placed on one dough sheet, covered with a second sheet, air pockets are pressed out around each mound, then cut into squares or rounds."
+  },
+  {
+    "id": 259,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Why must air pockets be pressed out of ravioli before cutting?",
+    "back": "Trapped air expands during boiling and can cause the sealed pasta to burst open, ruining the piece and clouding the cooking water."
+  },
+  {
+    "id": 260,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "How is tortellini shaped after folding into a triangle or half moon?",
+    "back": "The two outer points are wrapped around a finger and pinched together, forming the characteristic ring shape."
+  },
+  {
+    "id": 261,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Tortelloni vs tortellini",
+    "back": "Tortelloni is the larger cousin of tortellini, typically filled with a vegetable or cheese mixture rather than meat, and folded in a similar wrapped style at a bigger scale."
+  },
+  {
+    "id": 262,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Why must ricotta be well drained before it goes into a pasta filling?",
+    "back": "A filling that is too wet can soak through the dough during storage or cause the seal to fail during cooking, leading to leaks or a soggy result."
+  },
+  {
+    "id": 263,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Food safety rule for meat based pasta fillings",
+    "back": "Meat should be fully cooked and cooled before it is piped or spooned onto the dough, since raw meat inside sealed pasta is a food safety risk if the pasta is not cooked long enough."
+  },
+  {
+    "id": 264,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "How is stuffed pasta sealed, and what is the most common production fault?",
+    "back": "It is sealed with a light egg wash or water brushed along the edges. A poor seal is the most common fault, letting filling leak out and water in during boiling."
+  },
+  {
+    "id": 265,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Perogies: dough and typical fillings",
+    "back": "An unleavened dough of flour, egg, and water, filled with mashed potato and cheddar, sauerkraut, or seasoned meat. Usually boiled and often pan fried in butter with onions afterward."
+  },
+  {
+    "id": 266,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Describe the classic gyoza cooking method",
+    "back": "Called pan fry and steam: sear one side in a hot pan, add water and cover to steam through, then remove the lid to let the water evaporate and crisp the bottom again."
+  },
+  {
+    "id": 267,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Wonton wrappers vs gyoza wrappers",
+    "back": "Wonton wrappers are thinner and more delicate, so they are typically folded into a simple triangle or purse shape. Gyoza wrappers are sturdier and often pleated."
+  },
+  {
+    "id": 268,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Exam trap: why can't perogies and wontons share the same boiling time?",
+    "back": "Perogy dough is thicker and needs a longer boil to cook through, unlike the thin, delicate wonton wrapper. Using a wonton's short cook time leaves perogy dough undercooked."
+  },
+  {
+    "id": 269,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "What does al dente mean and how is doneness confirmed?",
+    "back": "It means firm to the tooth, with slight resistance when bitten and no raw or mushy spots. The only reliable test is tasting a piece, since package times are only a guideline."
+  },
+  {
+    "id": 270,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Why salt pasta cooking water heavily before adding the pasta?",
+    "back": "Pasta cannot be seasoned effectively after cooking, so salting the water seasons it from the inside out as it absorbs the liquid."
+  },
+  {
+    "id": 271,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Fresh pasta cook time vs dried pasta cook time",
+    "back": "Thin fresh pasta like tagliolini may need only one to two minutes. Dried pasta shapes commonly need eight to twelve minutes depending on thickness."
+  },
+  {
+    "id": 272,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "What is finishing pasta in the pan?",
+    "back": "Draining pasta a minute or two before full doneness, then tossing it in hot sauce with a splash of starchy pasta water until it finishes cooking, producing a glossier, better bound dish."
+  },
+  {
+    "id": 273,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Why reserve pasta cooking water before draining?",
+    "back": "The starch in the water helps sauces emulsify and cling to the pasta, and a splash can loosen a sauce that has become too thick or dry."
+  },
+  {
+    "id": 274,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Sauce pairing: thin strands vs wide ribbon pasta",
+    "back": "Thin strands like spaghetti pair with light, smooth sauces since thick sauce cannot cling evenly. Wide ribbons like fettuccine pair with richer, heavier sauces due to more surface area."
+  },
+  {
+    "id": 275,
+    "domain": "pastas_noodles_and_stuffed_items",
+    "front": "Stuffed pasta and dumpling storage and holding rules",
+    "back": "Fresh dough is refrigerated and used within a day or two, or frozen in a single layer before bagging. Items with raw meat or seafood fillings must be held hot above 60 C or cold below 4 C, never in the danger zone."
+  },
+  {
+    "id": 276,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Long grain white rice liquid ratio and cooking time",
+    "back": "One part rice to two parts liquid. Simmer covered for 18 to 20 minutes, then rest off heat for 5 to 10 minutes before fluffing."
+  },
+  {
+    "id": 277,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Why does brown rice need more liquid and time than white rice?",
+    "back": "Brown rice keeps its bran layer intact, which slows water absorption into the starchy endosperm. It uses roughly a 1 to 2.5 ratio and simmers 40 to 45 minutes."
+  },
+  {
+    "id": 278,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Pilaf method, defining feature",
+    "back": "Rice is sauteed in fat with aromatics first, then simmered covered in hot liquid without stirring. Stirring releases starch and causes a gummy texture."
+  },
+  {
+    "id": 279,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Risotto technique in one sentence",
+    "back": "High amylopectin rice like arborio is toasted in fat, then hot stock is added gradually while stirring constantly to release starch and build creaminess."
+  },
+  {
+    "id": 280,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "All onda",
+    "back": "The Italian trade term for properly finished risotto texture. It should spread slightly and flow on the plate, not hold a stiff mound."
+  },
+  {
+    "id": 281,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Why rinse quinoa before cooking?",
+    "back": "To remove saponins, a naturally bitter, soapy tasting compound coating the seed. Quinoa is simmered about 15 minutes at a 1 to 2 ratio with liquid."
+  },
+  {
+    "id": 282,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Quinoa doneness sign",
+    "back": "The germ ring separates and becomes visible as a small curl around each cooked grain. Quinoa is a complete protein containing all nine essential amino acids."
+  },
+  {
+    "id": 283,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Pot barley vs pearl barley",
+    "back": "Pot barley keeps more bran and cooks in 45 to 60 minutes. Pearl barley has the bran polished off, cooks in 25 to 30 minutes, and is not a whole grain."
+  },
+  {
+    "id": 284,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Freekeh",
+    "back": "Young green wheat that has been roasted and cracked. It has a distinct smoky flavor and a chewy bite, and is treated as a whole grain."
+  },
+  {
+    "id": 285,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Bulgur wheat processing",
+    "back": "Wheat that has been parboiled, dried, and cracked. Because it is pre-cooked, it can often rehydrate with just hot liquid, ideal for quick tabbouleh."
+  },
+  {
+    "id": 286,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Steel cut oats vs rolled oats",
+    "back": "Steel cut oats are chopped whole groats and take longer to cook. Rolled oats are steamed and flattened, which shortens their cooking time."
+  },
+  {
+    "id": 287,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Which pulse never needs pre-soaking?",
+    "back": "Lentils. Their skins are thin, so they cook in 20 to 30 minutes without a soaking step, unlike most dried beans and chickpeas."
+  },
+  {
+    "id": 288,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Long soak vs quick soak for dried beans",
+    "back": "Long soak covers beans in cold water and refrigerates 8 to 12 hours or overnight. Quick soak boils beans 2 minutes then rests off heat, covered, for about an hour."
+  },
+  {
+    "id": 289,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Which lentils break down into a soft puree fastest?",
+    "back": "Red and yellow split lentils. They cook quickly and are ideal for dal and for thickening soups, unlike green, brown, or French lentils."
+  },
+  {
+    "id": 290,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "French lentils (lentilles du Puy)",
+    "back": "The lentil variety that holds its shape the best of all. Prized for salads and dishes where a firm, visible bite is wanted."
+  },
+  {
+    "id": 291,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "When should salt and acid be added to dried beans?",
+    "back": "Only after the beans have softened. Early salt toughens skins and slows absorption, and acid like tomatoes or vinegar can prevent beans from ever fully softening."
+  },
+  {
+    "id": 292,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Kidney bean toxin safety rule",
+    "back": "Raw or undercooked kidney beans contain phytohaemagglutinin. Dried kidney beans must be boiled at a rolling boil for at least 10 minutes before finishing at a simmer."
+  },
+  {
+    "id": 293,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Why are slow cookers risky for unprepped kidney beans?",
+    "back": "A slow cooker on low heat may never reach a full rolling boil, and can actually increase toxin levels if beans are not pre-boiled first on the stovetop."
+  },
+  {
+    "id": 294,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Hard water effect on pulse cooking",
+    "back": "Calcium and magnesium ions interfere with pectin breakdown in bean skins, slowing softening. A small amount of baking soda can help, but too much ruins texture."
+  },
+  {
+    "id": 295,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Why toast nuts and seeds before use?",
+    "back": "Toasting develops flavor through the Maillard reaction and caramelization of natural sugars, and crisps the texture. High fat content means they burn quickly, so stir often."
+  },
+  {
+    "id": 296,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Carryover cooking in toasted nuts",
+    "back": "Nuts continue cooking briefly from residual heat after removal from heat. Pull them just before fully done and spread on a cool tray to stop overcooking."
+  },
+  {
+    "id": 297,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Why do nuts and seeds go rancid quickly?",
+    "back": "They are high in unsaturated fats, which oxidize readily when exposed to heat, light, and air. Store airtight in a cool, dark place, or refrigerate or freeze."
+  },
+  {
+    "id": 298,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Signs of rancid nuts",
+    "back": "A sharp, bitter, paint-like smell and flavor. Discard the entire batch since rancidity typically spreads through contact, even if only part smells off."
+  },
+  {
+    "id": 299,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Canada's priority allergens relevant to this domain",
+    "back": "Tree nuts, peanuts, and sesame seeds are all recognized priority food allergens under Health Canada rules, requiring strict cross contact prevention."
+  },
+  {
+    "id": 300,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Cross contact definition",
+    "back": "The transfer of an allergen from one food to another through shared equipment, surfaces, or utensils. Just as dangerous as the allergen being an intended ingredient."
+  },
+  {
+    "id": 301,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Why are peanuts grouped with tree nuts on allergen labels?",
+    "back": "Peanuts are botanically a legume, not a tree nut, but they trigger similar severe allergic reactions, so labeling groups them with tree nuts."
+  },
+  {
+    "id": 302,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Pepitas",
+    "back": "Hulled pumpkin seeds, commonly toasted and used for salad and garnish applications in professional kitchens."
+  },
+  {
+    "id": 303,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Tofu, what it is made from",
+    "back": "Coagulated soy milk pressed into blocks, similar in concept to how cheese is made from coagulated dairy milk. Available in silken through extra firm."
+  },
+  {
+    "id": 304,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Silken tofu vs extra firm tofu, best use",
+    "back": "Silken tofu has high moisture and a custard texture, best blended into sauces or desserts. Extra firm tofu has the lowest moisture and holds shape best for searing or grilling."
+  },
+  {
+    "id": 305,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Why press tofu before cooking?",
+    "back": "Pressing removes excess water, which improves browning and lets the porous tofu absorb marinades more effectively than dense muscle protein."
+  },
+  {
+    "id": 306,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Tempeh, what it is made from",
+    "back": "Whole soybeans that are cooked, then fermented with a mold culture that binds them into a firm, dense cake with a nutty, earthy flavor."
+  },
+  {
+    "id": 307,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Why is tempeh often steamed briefly before other cooking?",
+    "back": "Steaming softens its earthy flavor and improves digestibility before it is sliced and pan-fried, grilled, or crumbled into sauces."
+  },
+  {
+    "id": 308,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Seitan, what it is made from",
+    "back": "Vital wheat gluten, the protein left over after starch is washed out of wheat flour dough. Chewy, fibrous texture that mimics meat."
+  },
+  {
+    "id": 309,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Why is seitan unsuitable for some guests?",
+    "back": "It is made from wheat gluten, so it is not appropriate for guests with gluten intolerance or celiac disease. Simmer in broth, then sear or grill."
+  },
+  {
+    "id": 310,
+    "domain": "grains_pulses_seeds_nuts_and_proteins",
+    "front": "Complete protein through combination",
+    "back": "Pairing a grain with a legume, such as rice and beans or hummus with pita, creates a complete amino acid profile from plant sources alone."
+  },
+  {
+    "id": 311,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What are the 8 primal cuts of beef?",
+    "back": "Chuck, rib, loin (short loin and sirloin), round, brisket, plate, flank, and shank. Each primal comes from a different part of the animal and has its own muscle structure, fat content, and best cooking method."
+  },
+  {
+    "id": 312,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "Which beef primal produces the ribeye and prime rib?",
+    "back": "The rib primal, located between the chuck and the loin. It contains tender, well-marbled muscle that has done little work, so it suits dry heat methods like roasting and grilling."
+  },
+  {
+    "id": 313,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "Where does the tenderloin (filet mignon) come from?",
+    "back": "It comes from the short loin and sirloin primals, running along the inside of the backbone. This muscle does almost no work, making it the most tender cut on the animal, best suited to quick dry heat cooking."
+  },
+  {
+    "id": 314,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "Why is the beef chuck usually cooked with moist heat?",
+    "back": "The chuck is a heavily worked shoulder muscle group with a lot of connective tissue and collagen. Slow moist heat methods like braising break that collagen down into gelatin, making the meat tender."
+  },
+  {
+    "id": 315,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is the beef plate primal used for?",
+    "back": "The plate sits below the rib primal on the belly of the animal and includes cuts like short ribs and skirt steak. It has more connective tissue than the rib, so short ribs are usually braised while skirt steak is grilled quickly and sliced thin against the grain."
+  },
+  {
+    "id": 316,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What cut comes from the beef brisket primal?",
+    "back": "Brisket sits below the chuck on the breast of the animal and contains a lot of connective tissue from constant weight-bearing work. It requires long, slow moist heat cooking such as braising or smoking to become tender."
+  },
+  {
+    "id": 317,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "Where is flank steak located and how should it be cooked?",
+    "back": "Flank steak comes from the abdominal muscles of the beef flank primal. It is lean with long muscle fibers, so it is best grilled quickly to medium-rare and always sliced thin against the grain to shorten those fibers."
+  },
+  {
+    "id": 318,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is the beef round primal used for?",
+    "back": "The round is the hind leg, a lean but well-worked area with little marbling. It is often used for roasts, stewing meat, or ground beef, and benefits from moist heat or careful slow roasting to avoid dryness."
+  },
+  {
+    "id": 319,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What connective tissue makes shank meat tough, and how is it fixed?",
+    "back": "Shank contains high amounts of collagen because the leg muscles work constantly to support the animal's weight. Long, slow braising in liquid converts that collagen into gelatin, which is why shank is prized in dishes like osso buco."
+  },
+  {
+    "id": 320,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is the general rule for matching cooking method to a cut of meat?",
+    "back": "Tender cuts from muscles that do little work, like the loin and rib, suit dry heat methods such as roasting, grilling, and sauteing. Tougher, well-worked cuts with more connective tissue, like the chuck, shank, and round, suit moist heat methods like braising and stewing."
+  },
+  {
+    "id": 321,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What are the 4 primal cuts of pork?",
+    "back": "Shoulder (Boston butt and picnic), loin, side (belly), and leg (fresh ham). Pork has a simpler primal breakdown than beef because the animal is smaller and the fabrication needs are less complex."
+  },
+  {
+    "id": 322,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What products come from the pork loin primal?",
+    "back": "The pork loin gives pork chops, roasts, tenderloin, and back ribs. It is a naturally tender area suited to dry heat cooking like roasting, grilling, and pan-searing."
+  },
+  {
+    "id": 323,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is pork belly used to make, and why is it well suited to that?",
+    "back": "Pork belly is the primary cut used to make bacon and pancetta. Its high fat-to-meat ratio and even layering make it ideal for curing, smoking, or slow roasting to render the fat."
+  },
+  {
+    "id": 324,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is the difference between a Boston butt and a picnic shoulder?",
+    "back": "Both come from the pork shoulder primal, but the Boston butt is the upper portion near the back, while the picnic is the lower portion closer to the front leg. Both are well worked with lots of connective tissue and are best slow-cooked or braised."
+  },
+  {
+    "id": 325,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is fresh ham, and how does it differ from cured ham?",
+    "back": "Fresh ham is the uncured pork leg primal, sold and cooked as fresh raw meat like a roast. Cured ham has been treated with salt, nitrites, and often smoke, which changes its flavor, color, and shelf life."
+  },
+  {
+    "id": 326,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What are the 6 primal cuts of lamb?",
+    "back": "Shoulder, rack, loin, leg, breast, and shank. The rack and loin are the most tender and suited to roasting and grilling, while the shoulder, breast, and shank carry more connective tissue and are best braised or stewed."
+  },
+  {
+    "id": 327,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "Where does a rack of lamb come from and how is it typically cooked?",
+    "back": "It comes from the lamb rib primal, the same region as beef ribeye and prime rib. It is naturally tender with good marbling, so it is roasted whole with dry heat, often frenched for presentation."
+  },
+  {
+    "id": 328,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What are the primal cuts of veal, and how do they compare to beef?",
+    "back": "Veal has its own six primal cuts: shoulder, rib, loin, leg, breast, and shank, using veal-specific names rather than beef terms like chuck or round. Veal shank, like its beef counterpart, is heavy with connective tissue and is braised low and slow, most famously for osso buco."
+  },
+  {
+    "id": 329,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "Why is veal generally more tender than mature beef even in worked muscle groups?",
+    "back": "The calf is slaughtered young, before its connective tissue has toughened through age and repeated use. This means even cuts like veal shank, while still benefiting from braising, are more delicate than their beef equivalents."
+  },
+  {
+    "id": 330,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is a frenched bone, and why is it done?",
+    "back": "Frenching means scraping the meat and fat cleanly off the end of a rib bone, most often on a rack of lamb or a beef rib roast. It is done purely for presentation, giving a clean handle for carving or serving."
+  },
+  {
+    "id": 331,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is the difference between a primal cut and a sub-primal cut?",
+    "back": "A primal cut is one of the large initial sections a carcass is broken into during fabrication, such as the beef chuck or rib. A sub-primal cut is a smaller, more specific cut broken down further from that primal, such as a ribeye steak from the rib primal."
+  },
+  {
+    "id": 332,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What muscle group makes up the sirloin, and how tender is it compared to the tenderloin?",
+    "back": "The sirloin sits behind the short loin over the hip area and includes several muscles that do a moderate amount of work. It is less tender than the tenderloin but still suitable for dry heat grilling and roasting."
+  },
+  {
+    "id": 333,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is the lamb breast primal typically used for?",
+    "back": "Lamb breast comes from the underside of the animal and contains more connective tissue and fat than the loin or rack. It is well suited to slow moist heat cooking, braising, or stewing, similar to beef brisket."
+  },
+  {
+    "id": 334,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "Why does the loin primal generally produce the most tender cuts across all four-legged meat animals?",
+    "back": "The loin runs along the back and supports very little of the animal's weight-bearing or locomotive work. Because these muscles are used lightly, they build up little connective tissue, staying naturally tender."
+  },
+  {
+    "id": 335,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is a saddle of lamb?",
+    "back": "A saddle is both loin primals left uncut and attached at the backbone, essentially a double loin roast. It is a classic presentation cut used for special-occasion roasting."
+  },
+  {
+    "id": 336,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What are the main steps of fabricating a whole chicken into 8 pieces?",
+    "back": "Remove the legs at the hip joint, separate each leg into thigh and drumstick, remove the wings, then split the breast in half along the keel bone. This yields 2 drumsticks, 2 thighs, 2 wings, and 2 breast halves."
+  },
+  {
+    "id": 337,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is spatchcocking a chicken?",
+    "back": "Spatchcocking means removing the backbone with shears and pressing the bird flat so it lies open. It allows the whole chicken to cook faster and more evenly, especially for grilling or high-heat roasting."
+  },
+  {
+    "id": 338,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is the difference between white meat and dark meat on poultry, and why does it matter for cooking?",
+    "back": "White meat, like the breast, has less myoglobin and connective tissue and cooks quickly, drying out if overcooked. Dark meat, like the thigh and leg, has more connective tissue and fat, so it stays moist even at higher internal temperatures and slower cooking times."
+  },
+  {
+    "id": 339,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is a supreme in poultry fabrication?",
+    "back": "A supreme is a boneless, skin-on chicken breast with the first wing bone joint still attached. It is a classic restaurant presentation cut used for pan-searing or roasting."
+  },
+  {
+    "id": 340,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "How do you truss a whole bird, and why?",
+    "back": "Trussing means tying the legs and wings close to the body with kitchen twine before roasting. It promotes even cooking and gives the bird a neat, compact shape for presentation."
+  },
+  {
+    "id": 341,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is the difference between fabricating a turkey and a chicken?",
+    "back": "The fabrication steps are the same, removing legs, wings, and splitting the breast, but turkey's larger size means the breast is often roasted separately from the legs. This lets each part reach the correct doneness without overcooking the other."
+  },
+  {
+    "id": 342,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What tool is typically used to cut through poultry bones during fabrication?",
+    "back": "Poultry shears or a boning knife combined with kitchen shears are used to cut through joints and small bones. A chef's knife is used for the softer cartilage and to separate meat from bone, but bone itself should be cut with shears, not a chef's knife, to avoid damaging the blade."
+  },
+  {
+    "id": 343,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is duck breast (magret) and how does it differ from chicken breast in cooking?",
+    "back": "Magret is a large, fatty duck breast with a thick layer of skin and fat on one side. Unlike chicken breast, it is usually cooked skin-side down first to render the fat and crisp the skin, and is often served medium-rare rather than fully cooked through."
+  },
+  {
+    "id": 344,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What defines game meat, and how does it generally differ from farmed meat?",
+    "back": "Game meat comes from wild or semi-wild animals such as venison, bison, elk, and wild boar. It is typically leaner than farmed meat because the animal moves more, so it can dry out quickly and often benefits from added fat, marinating, or careful attention to avoid overcooking."
+  },
+  {
+    "id": 345,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "Why is venison often barded or larded before roasting?",
+    "back": "Venison is very lean with almost no internal marbling. Barding, wrapping the meat in fat like bacon or caul fat, or larding, inserting strips of fat into the meat, adds moisture and prevents the lean meat from drying out during dry heat cooking."
+  },
+  {
+    "id": 346,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is the difference between farmed and true wild game in a Canadian commercial kitchen?",
+    "back": "Farmed game, such as farmed bison or elk, is raised and processed under regulated conditions and is legal to sell and serve. True wild game harvested by hunting generally cannot be sold commercially in Canada, so restaurants use farmed sources instead."
+  },
+  {
+    "id": 347,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "How does the cooking approach for rabbit differ between its loin and its legs?",
+    "back": "Rabbit loin is very lean and tender, so it suits quick dry heat cooking like sauteing or roasting. Rabbit legs contain more connective tissue and work more during the animal's life, so they are better braised or stewed slowly."
+  },
+  {
+    "id": 348,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "Why is wild boar often braised or slow-cooked rather than grilled?",
+    "back": "Wild boar meat is denser and firmer than domestic pork because the animal is more active and often older. Slow moist heat cooking breaks down its tougher muscle fibers and connective tissue, producing a tender result."
+  },
+  {
+    "id": 349,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What are variety meats (offal)?",
+    "back": "Variety meats, also called offal, are the organs and non-muscle parts of an animal used for food, such as liver, kidney, heart, tongue, and tripe. They differ from muscle meat in texture, flavor, and often require specific preparation to remove strong flavors or tough membranes."
+  },
+  {
+    "id": 350,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "How should liver be cooked, and why is overcooking a common mistake?",
+    "back": "Liver should be cooked quickly over high heat, usually to medium or medium-rare, often after being soaked in milk to mellow its flavor. Overcooking makes it tough, dry, and grainy because it has very little connective tissue or fat to protect it."
+  },
+  {
+    "id": 351,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is tripe, and how must it be prepared before cooking?",
+    "back": "Tripe is the lining of a ruminant animal's stomach, most commonly beef. It requires thorough cleaning and long, slow moist heat cooking, often several hours of simmering, to become tender because it is naturally tough and rubbery."
+  },
+  {
+    "id": 352,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "Why is kidney often soaked or blanched before cooking?",
+    "back": "Kidney can carry a strong, slightly ammonia-like flavor from its function filtering waste in the animal. Soaking in milk or acidulated water, or a quick blanch, helps draw out and mellow that strong flavor before final cooking."
+  },
+  {
+    "id": 353,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "How is beef heart typically prepared, and what texture should a cook expect?",
+    "back": "Beef heart is a dense, lean muscle with very little fat, so it is often sliced thin and grilled quickly or braised whole for tenderness. Cooked correctly it has a firm, meaty texture similar to a lean steak rather than a typical organ texture."
+  },
+  {
+    "id": 354,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is sweetbread, and where does it come from on the animal?",
+    "back": "Sweetbread refers to the thymus gland or pancreas of a young animal, most often veal or lamb. It has a delicate, creamy texture and is usually poached first, then pan-seared for a crisp exterior."
+  },
+  {
+    "id": 355,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "Why do variety meats generally have a shorter shelf life than muscle cuts?",
+    "back": "Organs have a higher surface area, higher enzyme activity, and greater bacterial exposure than solid muscle tissue. This makes them spoil faster, so they should be used quickly and stored at the coldest part of the fridge."
+  },
+  {
+    "id": 356,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is dry aging, and what does it do to beef?",
+    "back": "Dry aging holds whole primal cuts uncovered in a controlled, refrigerated environment for weeks, allowing natural enzymes to break down muscle fibers and moisture to evaporate. This concentrates flavor and increases tenderness, but also causes weight loss and requires trimming a dried outer crust."
+  },
+  {
+    "id": 357,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is wet aging, and how does it differ from dry aging?",
+    "back": "Wet aging holds vacuum-sealed meat in its own juices under refrigeration for a shorter period, usually days to a couple of weeks. It still allows enzymatic tenderization but without moisture loss or the concentrated flavor development that dry aging produces."
+  },
+  {
+    "id": 358,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What causes meat to become more tender during aging?",
+    "back": "Natural enzymes already present in the muscle, primarily calpains, gradually break down the structural proteins that hold muscle fibers together. This weakens the fiber structure over time, which is what makes aged meat noticeably more tender than fresh-cut meat."
+  },
+  {
+    "id": 359,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is mechanical tenderization, and give two examples?",
+    "back": "Mechanical tenderization physically breaks down muscle fibers and connective tissue using equipment or tools rather than time or heat. Examples include pounding meat with a mallet and running it through a needle or blade tenderizer that pierces the fibers."
+  },
+  {
+    "id": 360,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "How does cutting meat against the grain improve perceived tenderness?",
+    "back": "Muscle fibers run in a consistent direction, and long uncut fibers feel chewy and tough when bitten. Slicing across, or against, the grain shortens those fibers into small segments, making the meat noticeably easier to chew even without any other tenderizing step."
+  },
+  {
+    "id": 361,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is the minimum safe internal cooking temperature for whole poultry in Canada?",
+    "back": "Whole poultry, including chicken and turkey, must reach a minimum internal temperature of 82°C (180°F) as measured in the thickest part of the thigh. This is a Health Canada food safety requirement, not a doneness preference."
+  },
+  {
+    "id": 362,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is the minimum safe internal cooking temperature for ground poultry and poultry pieces in Canada?",
+    "back": "Ground poultry must reach 74°C (165°F), and poultry pieces such as breasts, thighs, and wings must reach 74°C (165°F) as well. These are lower than the whole-bird temperature because the pieces are smaller and more uniformly heated."
+  },
+  {
+    "id": 363,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is the minimum safe internal cooking temperature for ground beef, veal, and pork in Canada?",
+    "back": "Ground beef, veal, and pork must all reach a minimum internal temperature of 71°C (160°F). Grinding distributes any surface bacteria throughout the meat, so ground products require higher assurance temperatures than intact whole cuts."
+  },
+  {
+    "id": 364,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is the minimum safe internal cooking temperature for whole cuts of beef, veal, and lamb in Canada?",
+    "back": "Whole cuts of beef, veal, and lamb, including steaks, chops, and roasts, must reach a minimum internal temperature of 63°C (145°F), followed by a 3-minute rest time. Because surface bacteria on an intact cut has not been mixed into the interior, a lower temperature is considered safe compared to ground meat. Pork does not share this exception: whole pork cuts must reach a flat 71°C (160°F) instead, the same as ground pork."
+  },
+  {
+    "id": 365,
+    "domain": "meats_game_poultry_and_variety_meats",
+    "front": "What is the correct carving technique for a roasted whole cut like a beef roast or leg of lamb?",
+    "back": "Let the roast rest for at least 10 to 15 minutes after cooking so the juices redistribute before cutting. Then slice against the grain in even, thin slices using a sharp carving knife, working in one smooth motion per slice rather than sawing back and forth."
+  },
+  {
+    "id": 366,
+    "domain": "fish_and_seafood",
+    "front": "Flat fish",
+    "back": "Flat fish swim on one side and have both eyes on the top of the head, with a dark skin side and a white blind side. Examples include sole, halibut, flounder, and turbot. They yield four fillets per fish because of their body shape."
+  },
+  {
+    "id": 367,
+    "domain": "fish_and_seafood",
+    "front": "Round fish",
+    "back": "Round fish have a rounded, symmetrical body with one eye on each side of the head. Examples include salmon, trout, snapper, and cod. They yield two fillets per fish, one from each side of the backbone."
+  },
+  {
+    "id": 368,
+    "domain": "fish_and_seafood",
+    "front": "What is filleting?",
+    "back": "Filleting is removing the flesh from a fish in a boneless piece by cutting along the backbone and rib bones. The result is a fillet, which can be skin-on or skinless depending on the finished dish."
+  },
+  {
+    "id": 369,
+    "domain": "fish_and_seafood",
+    "front": "What is scaling?",
+    "back": "Scaling is removing the hard outer scales from a fish skin using a fish scaler or the back of a knife, working from tail to head against the direction the scales lie. It is done before filleting or cooking fish with the skin on."
+  },
+  {
+    "id": 370,
+    "domain": "fish_and_seafood",
+    "front": "What is the difference between boning through the back and butterflying a fish?",
+    "back": "Boning through the back removes the backbone and rib cage through a cut along the spine, keeping the belly joined. Butterflying is the opposite: the fish is boned out from the belly side, keeping the two fillets joined along the back so it opens flat like a book. Both are used for small whole round fish like trout, but they are two distinct techniques, not different names for the same cut."
+  },
+  {
+    "id": 371,
+    "domain": "fish_and_seafood",
+    "front": "What is dressing a fish?",
+    "back": "Dressing means preparing a whole fish for cooking by removing the scales, gills, fins, and viscera. A fully dressed fish is ready to cook whole, pan dressed, or further fabricated into fillets or steaks."
+  },
+  {
+    "id": 372,
+    "domain": "fish_and_seafood",
+    "front": "What is a fish steak?",
+    "back": "A steak is a cross-section cut through the bone, common on larger round fish such as salmon or tuna. It differs from a fillet, which is boned and runs along the length of the fish rather than across it."
+  },
+  {
+    "id": 373,
+    "domain": "fish_and_seafood",
+    "front": "What is a tranche?",
+    "back": "A tranche is a fillet of fish cut on a sharp bias into thin, wide diagonal slices. The angled cut increases the surface area of the portion, which is often used for pan searing or poaching."
+  },
+  {
+    "id": 374,
+    "domain": "fish_and_seafood",
+    "front": "What is a goujonette?",
+    "back": "A goujonette is a small strip of fish fillet cut on the bias, roughly the size and shape of a small finger, typically breaded or battered and deep fried. The name comes from the French word for gudgeon, a small fish."
+  },
+  {
+    "id": 375,
+    "domain": "fish_and_seafood",
+    "front": "What is a paupiette?",
+    "back": "A paupiette is a thin fillet of fish, often flat fish, rolled around a stuffing or filling. It is usually poached or baked and held together with a skewer or by the tightness of the roll."
+  },
+  {
+    "id": 376,
+    "domain": "fish_and_seafood",
+    "front": "What is the pin bone line in fish fillets?",
+    "back": "The pin bones are a row of small bones running along the center of a fillet from round fish like salmon and trout. They are removed with fish tweezers or needle nose pliers by pulling them out in the direction they lie."
+  },
+  {
+    "id": 377,
+    "domain": "fish_and_seafood",
+    "front": "Freshness sign: fish eyes",
+    "back": "Fresh fish should have clear, full, and slightly bulging eyes. Cloudy, sunken, or flat eyes are a sign the fish is aging or has been improperly stored."
+  },
+  {
+    "id": 378,
+    "domain": "fish_and_seafood",
+    "front": "Freshness sign: fish gills",
+    "back": "Fresh fish gills should be bright red or pink, moist, and free of excess slime. Gray, brown, or dull colored gills indicate the fish is no longer fresh."
+  },
+  {
+    "id": 379,
+    "domain": "fish_and_seafood",
+    "front": "Freshness sign: fish flesh and skin",
+    "back": "Fresh fish flesh should be firm and spring back when pressed, not leave an indentation. The skin should be shiny, tight to the flesh, and moist without a slimy film."
+  },
+  {
+    "id": 380,
+    "domain": "fish_and_seafood",
+    "front": "Freshness sign: smell of fresh fish",
+    "back": "Fresh fish should smell mild, clean, and like the sea or a cucumber. A strong ammonia, sour, or fishy odor is a clear sign of spoilage and the fish should be rejected."
+  },
+  {
+    "id": 381,
+    "domain": "fish_and_seafood",
+    "front": "Lean fish, fat content",
+    "back": "Lean fish contain less than about 5 percent fat and include species such as cod, haddock, sole, halibut, and snapper. Their low fat content makes them prone to drying out and better suited to moist heat or gentle cooking methods."
+  },
+  {
+    "id": 382,
+    "domain": "fish_and_seafood",
+    "front": "Fatty fish, fat content",
+    "back": "Fatty fish contain roughly 5 percent or more fat and include salmon, mackerel, tuna, trout, and herring. The higher fat content lets them hold up well to dry heat methods such as grilling, broiling, and roasting."
+  },
+  {
+    "id": 383,
+    "domain": "fish_and_seafood",
+    "front": "Best cooking methods for lean, delicate fish",
+    "back": "Lean, delicate fish such as sole and flounder are best suited to gentle moist heat methods like poaching and steaming, or quick shallow methods like sauteing. Dry, high heat methods can easily overcook and dry out lean fish."
+  },
+  {
+    "id": 384,
+    "domain": "fish_and_seafood",
+    "front": "Best cooking methods for fatty fish",
+    "back": "Fatty fish such as salmon and mackerel hold moisture well under high, dry heat, making them well suited to grilling, broiling, and roasting. Their natural oil content bastes the flesh from within during cooking."
+  },
+  {
+    "id": 385,
+    "domain": "fish_and_seafood",
+    "front": "Doneness test for cooked fish",
+    "back": "Under Canadian food safety standards, finfish must reach a minimum internal temperature of 70 degrees C, at which point the flesh is fully opaque and separates easily with a fork. This is a separate standard from the 63 degree C figure used for whole cuts of red meat."
+  },
+  {
+    "id": 386,
+    "domain": "fish_and_seafood",
+    "front": "What does opaque flesh indicate in cooked fish?",
+    "back": "Opaque flesh means the translucent, raw appearance of the fish protein has fully turned solid white or matte in color as the proteins coagulate. Fish that is still translucent or glossy in the center is undercooked."
+  },
+  {
+    "id": 387,
+    "domain": "fish_and_seafood",
+    "front": "Crustaceans, definition and examples",
+    "back": "Crustaceans are shellfish with a segmented external shell called an exoskeleton and jointed legs. Common examples are shrimp, lobster, crab, and crayfish."
+  },
+  {
+    "id": 388,
+    "domain": "fish_and_seafood",
+    "front": "Mollusks, definition and three subgroups",
+    "back": "Mollusks are soft bodied shellfish, usually protected by a hard external or internal shell. The three subgroups are bivalves such as clams and oysters, gastropods such as abalone and conch, and cephalopods such as squid and octopus."
+  },
+  {
+    "id": 389,
+    "domain": "fish_and_seafood",
+    "front": "Bivalves, definition and examples",
+    "back": "Bivalves are mollusks with two hinged shells joined by an adductor muscle, and they filter feed by drawing water through their shells. Examples include clams, mussels, oysters, and scallops."
+  },
+  {
+    "id": 390,
+    "domain": "fish_and_seafood",
+    "front": "Gastropods, definition and examples",
+    "back": "Gastropods are single shelled mollusks that move using a large muscular foot. Examples used in cooking include abalone, conch, and periwinkle, and the foot muscle is usually the edible portion."
+  },
+  {
+    "id": 391,
+    "domain": "fish_and_seafood",
+    "front": "Cephalopods, definition and examples",
+    "back": "Cephalopods are mollusks with a soft body, a distinct head, and tentacles, and most lack an outer shell. Examples include squid, octopus, and cuttlefish."
+  },
+  {
+    "id": 392,
+    "domain": "fish_and_seafood",
+    "front": "Why does lobster shell turn red when cooked?",
+    "back": "Raw lobster shell contains the pigment astaxanthin bound to a protein called crustacyanin, which masks the red color and makes the shell appear blue gray or greenish brown. Heat denatures the protein and releases astaxanthin, revealing its natural bright red color."
+  },
+  {
+    "id": 393,
+    "domain": "fish_and_seafood",
+    "front": "How to tell if a live bivalve is alive before cooking?",
+    "back": "A live clam, mussel, or oyster should have a tightly closed shell, or should close when tapped if slightly open. Any shell that stays open after tapping should be discarded, since that indicates the animal has died."
+  },
+  {
+    "id": 394,
+    "domain": "fish_and_seafood",
+    "front": "How to tell if a cooked bivalve was alive when cooked?",
+    "back": "After cooking, live bivalves such as clams and mussels open their shells fully. Any shell that remains closed after cooking should be discarded because it likely means the shellfish was already dead before cooking."
+  },
+  {
+    "id": 395,
+    "domain": "fish_and_seafood",
+    "front": "Shellstock tag, purpose",
+    "back": "A shellstock tag is a document attached to every container of live shellfish that records the harvest location, harvest date, and dealer information. It allows shellfish to be traced back to their source in the event of illness or a food safety recall."
+  },
+  {
+    "id": 396,
+    "domain": "fish_and_seafood",
+    "front": "How long must shellstock tags be retained on file?",
+    "back": "Shellstock tags must be kept on file for a minimum of 90 days from the date the last shellfish from that container was sold or used. This retention period allows tracing during an outbreak investigation."
+  },
+  {
+    "id": 397,
+    "domain": "fish_and_seafood",
+    "front": "What is scombroid poisoning caused by?",
+    "back": "Scombroid poisoning is caused by eating fish that has been temperature abused, allowing bacteria to convert the amino acid histidine into histamine. It commonly affects dark fleshed fish such as tuna, mackerel, and mahi mahi and cooking does not destroy the toxin."
+  },
+  {
+    "id": 398,
+    "domain": "fish_and_seafood",
+    "front": "Symptoms of scombroid poisoning",
+    "back": "Scombroid poisoning causes flushing, headache, a peppery or metallic taste, hives, and a burning sensation in the mouth shortly after eating. Symptoms mimic an allergic reaction because histamine is the direct cause."
+  },
+  {
+    "id": 399,
+    "domain": "fish_and_seafood",
+    "front": "What is Paralytic Shellfish Poisoning, PSP?",
+    "back": "PSP is caused by eating bivalve shellfish that have filtered and accumulated saxitoxin produced by certain dinoflagellate algae during a harmful algal bloom, sometimes called a red tide. Saxitoxin is heat stable, so cooking does not remove the danger."
+  },
+  {
+    "id": 400,
+    "domain": "fish_and_seafood",
+    "front": "Symptoms of PSP",
+    "back": "Paralytic shellfish poisoning causes tingling or numbness of the lips, tongue, and fingertips, followed in severe cases by muscle weakness and difficulty breathing. It can be life threatening and requires immediate medical attention."
+  },
+  {
+    "id": 401,
+    "domain": "fish_and_seafood",
+    "front": "What is anisakis?",
+    "back": "Anisakis is a parasitic roundworm found in the flesh of many wild caught fish species. Eating raw or undercooked infected fish can cause anisakiasis, an illness involving abdominal pain, nausea, and vomiting."
+  },
+  {
+    "id": 402,
+    "domain": "fish_and_seafood",
+    "front": "How is anisakis controlled in fish intended for raw preparations?",
+    "back": "Fish intended to be served raw, such as for sushi or ceviche, must be commercially frozen to kill parasites. Standard guidance is freezing at minus 20 degrees Celsius or below for 7 days, or minus 35 degrees Celsius or below for 15 hours."
+  },
+  {
+    "id": 403,
+    "domain": "fish_and_seafood",
+    "front": "Crustacean and mollusc allergen cross contamination, key control",
+    "back": "Crustaceans and molluscs are one of the priority food allergen categories, so cooks must use separate cutting boards, utensils, and cooking equipment to avoid cross contact with other foods. Fryer oil used for shellfish should never be shared with allergen free items."
+  },
+  {
+    "id": 404,
+    "domain": "fish_and_seafood",
+    "front": "Why must live shellfish be sourced only from approved suppliers?",
+    "back": "Approved suppliers harvest from waters that are regularly tested and certified safe for shellfish growth, reducing the risk of biotoxins, bacteria, and pollutants. Purchasing from an unapproved or uncertified source removes this safety guarantee."
+  },
+  {
+    "id": 405,
+    "domain": "fish_and_seafood",
+    "front": "Storage temperature for fresh fish and shellfish",
+    "back": "Fresh fish and shellfish should be stored at 0 to 4 degrees Celsius, ideally packed on ice with proper drainage so the product does not sit in melted water. Ice should be replenished regularly to maintain temperature and freshness."
+  },
+  {
+    "id": 406,
+    "domain": "fish_and_seafood",
+    "front": "What is roundfish filleting method called when two fillets come off each side of the backbone?",
+    "back": "This is the standard round fish filleting method, producing two fillets, one from each side of the spine. The knife follows the backbone and rib cage in a single smooth motion from head to tail."
+  },
+  {
+    "id": 407,
+    "domain": "fish_and_seafood",
+    "front": "What is the difference between shrimp and prawns in trade usage?",
+    "back": "In common trade and market usage the terms shrimp and prawns are often used interchangeably for similar crustaceans, though true prawns are a distinct freshwater family. Sizing on menus and invoices is usually expressed as a count per pound range."
+  },
+  {
+    "id": 408,
+    "domain": "fish_and_seafood",
+    "front": "What does shrimp count per pound, such as 16-20, mean?",
+    "back": "A count such as 16-20 means there are 16 to 20 individual shrimp per pound of that size grade. The lower the count number, the larger the individual shrimp."
+  },
+  {
+    "id": 409,
+    "domain": "fish_and_seafood",
+    "front": "What is deveining shrimp?",
+    "back": "Deveining removes the dark digestive tract running along the shrimp's back. This is mainly a quality and appearance step to remove grit and improve presentation, not a required food safety control, since the tract does not pose a significant hazard once the shrimp is fully cooked."
+  },
+  {
+    "id": 410,
+    "domain": "fish_and_seafood",
+    "front": "Scallop types, dry pack versus wet pack",
+    "back": "Dry pack scallops are untreated and have not absorbed water, giving a cleaner sear and truer flavor. Wet pack scallops have been treated with a phosphate solution that adds water weight and can prevent proper caramelization when seared."
+  },
+  {
+    "id": 411,
+    "domain": "fish_and_seafood",
+    "front": "How is squid cleaned and fabricated?",
+    "back": "Cleaning squid involves pulling the head and tentacles away from the body tube, removing the internal quill or cartilage, and rinsing out the ink sac and viscera. The outer skin and fins are peeled off, and the tube can then be left whole, cut into rings, or scored."
+  },
+  {
+    "id": 412,
+    "domain": "fish_and_seafood",
+    "front": "Why is octopus often tenderized before cooking?",
+    "back": "Octopus flesh is naturally tough due to its high collagen content and muscular structure, so it is often tenderized by braising low and slow, mechanical pounding, or a controlled freeze and thaw cycle. Long, gentle moist cooking breaks down collagen into gelatin for a tender result."
+  },
+  {
+    "id": 413,
+    "domain": "fish_and_seafood",
+    "front": "What is a court bouillon used for with fish?",
+    "back": "A court bouillon is a quick, flavorful poaching liquid made with water, wine or vinegar, vegetables, and aromatics. It is used to gently poach fish and shellfish while adding flavor without a heavy sauce or stock base."
+  },
+  {
+    "id": 414,
+    "domain": "fish_and_seafood",
+    "front": "What is the blind side of a flat fish?",
+    "back": "The blind side is the pale, white underside of a flat fish that faces the ocean floor and has no functioning eye. The dark, pigmented top side facing upward carries both eyes and is called the eyed side."
+  },
+  {
+    "id": 415,
+    "domain": "fish_and_seafood",
+    "front": "What internal condition can cause king mackerel, tuna, or other large predatory fish to carry biotoxin risk unrelated to scombroid?",
+    "back": "Large reef predatory fish such as barracuda, grouper, and some snapper can accumulate ciguatoxin from feeding on smaller fish that consumed toxic dinoflagellates on reefs. This causes ciguatera poisoning, and unlike scombroid it is not linked to temperature abuse, it is tied to where the fish was caught."
+  },
+  {
+    "id": 416,
+    "domain": "salads_and_sandwiches",
+    "front": "What are the four parts of a plated salad, in order from bottom to top?",
+    "back": "The four parts are base, body, garnish, and dressing. The base is the layer of greens on the bottom, the body is the main ingredient placed on top of the base, the garnish finishes the plate with color or texture, and the dressing binds and moistens the salad."
+  },
+  {
+    "id": 417,
+    "domain": "salads_and_sandwiches",
+    "front": "Classic vinaigrette ratio",
+    "back": "The classic vinaigrette ratio is 3 parts oil to 1 part acid, written as 3:1. This ratio can be scaled up or down for any batch size while keeping the same proportions."
+  },
+  {
+    "id": 418,
+    "domain": "salads_and_sandwiches",
+    "front": "Why is a vinaigrette called a temporary emulsion?",
+    "back": "A vinaigrette naturally separates once whisking or shaking stops, because oil and vinegar do not stay combined on their own. It must be re-whisked or shaken again right before it is used."
+  },
+  {
+    "id": 419,
+    "domain": "salads_and_sandwiches",
+    "front": "Why is mayonnaise called a permanent emulsion?",
+    "back": "Mayonnaise stays combined because egg yolk contains lecithin, which holds the oil and acid together indefinitely under normal conditions. This is different from a vinaigrette, which separates without agitation."
+  },
+  {
+    "id": 420,
+    "domain": "salads_and_sandwiches",
+    "front": "Bound salad, definition",
+    "back": "A bound salad uses a thick, creamy dressing such as mayonnaise to hold solid ingredients together. Chicken salad, egg salad, tuna salad, and potato salad are all examples."
+  },
+  {
+    "id": 421,
+    "domain": "salads_and_sandwiches",
+    "front": "Vegetable salad, definition",
+    "back": "A vegetable salad uses cooked or raw vegetables as its main body, usually dressed with a vinaigrette rather than a creamy dressing. Coleslaw and a three bean salad are common examples."
+  },
+  {
+    "id": 422,
+    "domain": "salads_and_sandwiches",
+    "front": "Green salad, definition",
+    "back": "A green salad is built primarily from lettuce and other leafy greens as the main body, dressed lightly. A house salad or a Caesar salad both count as green salads even with added garnish."
+  },
+  {
+    "id": 423,
+    "domain": "salads_and_sandwiches",
+    "front": "Fruit salad, definition",
+    "back": "A fruit salad uses fresh, canned, or poached fruit as the body, often dressed with a light syrup, yogurt, or citrus based dressing. It is commonly served at breakfast or brunch."
+  },
+  {
+    "id": 424,
+    "domain": "salads_and_sandwiches",
+    "front": "What temperature should washed salad greens be stored at?",
+    "back": "Washed and spun dry salad greens should be held at 4 degrees Celsius or below. This slows spoilage, wilting, and browning at cut edges."
+  },
+  {
+    "id": 425,
+    "domain": "salads_and_sandwiches",
+    "front": "Why should greens be spun dry before storage?",
+    "back": "Excess moisture left on greens speeds up spoilage and encourages browning at cut edges. Greens should be washed, spun dry, and wrapped loosely with a slightly damp cloth before refrigeration."
+  },
+  {
+    "id": 426,
+    "domain": "salads_and_sandwiches",
+    "front": "Head lettuce vs bitter greens",
+    "back": "Head lettuces like iceberg and romaine are crisp and hold their shape well, good for wedge salads. Bitter greens like arugula, radicchio, and frisee add sharp flavor contrast and are usually blended with milder greens."
+  },
+  {
+    "id": 427,
+    "domain": "salads_and_sandwiches",
+    "front": "Closed sandwich vs open faced sandwich",
+    "back": "A closed sandwich uses two slices of bread with filling between them. An open faced sandwich uses a single slice of bread with the filling piled on top, uncovered, and is usually eaten with a knife and fork."
+  },
+  {
+    "id": 428,
+    "domain": "salads_and_sandwiches",
+    "front": "Multi decker or club sandwich, definition",
+    "back": "A multi decker or club sandwich stacks three or more slices of bread with two or more separate fillings between the layers. It is commonly cut into quarters and held together with toothpicks or skewers."
+  },
+  {
+    "id": 429,
+    "domain": "salads_and_sandwiches",
+    "front": "Three functional components of every sandwich",
+    "back": "Every sandwich has bread, a spread, and a filling. The spread adds moisture and flavor while acting as a barrier that helps keep the bread from getting soggy."
+  },
+  {
+    "id": 430,
+    "domain": "salads_and_sandwiches",
+    "front": "Why spread butter or mayonnaise edge to edge before adding a wet filling?",
+    "back": "Spreading edge to edge creates a barrier that prevents the filling's moisture from soaking directly into the bread. Skipping this step is a common mistake that causes the sandwich to fall apart before service."
+  },
+  {
+    "id": 431,
+    "domain": "salads_and_sandwiches",
+    "front": "Best bread choice for a wet, heavy filling",
+    "back": "Dense, sturdy breads such as sourdough, rye, or a firm baguette hold up well against wet or heavy fillings like egg salad or roast beef with gravy. Soft bread is better matched to lighter, drier fillings."
+  },
+  {
+    "id": 432,
+    "domain": "salads_and_sandwiches",
+    "front": "Why can slightly stale bread work better for pressed or grilled sandwiches?",
+    "back": "Slightly stale bread holds its shape better under heat and pressure. Very fresh, soft bread can compress and tear during grilling or pressing."
+  },
+  {
+    "id": 433,
+    "domain": "salads_and_sandwiches",
+    "front": "Temperature danger zone for potentially hazardous food",
+    "back": "The temperature danger zone is between 4 degrees Celsius and 60 degrees Celsius. Ready to eat food should spend the shortest possible time in this range."
+  },
+  {
+    "id": 434,
+    "domain": "salads_and_sandwiches",
+    "front": "Maximum unrefrigerated time for ready to eat food under normal conditions",
+    "back": "Ready to eat food should not sit unrefrigerated for more than two hours. If the ambient temperature is above 32 degrees Celsius, the safe limit drops to one hour."
+  },
+  {
+    "id": 435,
+    "domain": "salads_and_sandwiches",
+    "front": "Why use pasteurized egg products in mayonnaise based dressings?",
+    "back": "Pasteurized egg products lower the risk of foodborne illness from Salmonella. This matters because mayonnaise based dressings are not cooked before service."
+  },
+  {
+    "id": 436,
+    "domain": "salads_and_sandwiches",
+    "front": "Why is cross contamination control critical for salads and sandwiches?",
+    "back": "Salads and sandwiches are almost always ready to eat items with no final cooking step to kill bacteria. Any contamination introduced during prep stays present through service."
+  },
+  {
+    "id": 437,
+    "domain": "salads_and_sandwiches",
+    "front": "Correct procedure after using a board for raw chicken before prepping lettuce",
+    "back": "The board and knife must be fully washed, rinsed, and sanitized before touching a ready to eat item like lettuce. A dry wipe alone is not sufficient to remove pathogens."
+  },
+  {
+    "id": 438,
+    "domain": "salads_and_sandwiches",
+    "front": "Why does bare hand contact with ready to eat food matter?",
+    "back": "Bare hand contact is a major transmission route for pathogens like norovirus. Gloves, tongs, or other utensils should be used for direct handling of ready to eat items like bread, lettuce, or finished sandwiches."
+  },
+  {
+    "id": 439,
+    "domain": "salads_and_sandwiches",
+    "front": "Why prepare mayonnaise based salads in small batches kept cold?",
+    "back": "Mayonnaise based salads and dressings have high protein and moisture content that supports bacterial growth if held improperly. Small batches kept cold, such as in a bowl over ice, limit time spent in the danger zone."
+  },
+  {
+    "id": 440,
+    "domain": "salads_and_sandwiches",
+    "front": "Cross contact with allergens at a sandwich station",
+    "back": "A single sandwich station often produces items with nuts, dairy, gluten, and crustaceans and molluscs side by side. The work surface and tools must be cleaned between orders with different allergen profiles to prevent transferring an allergen to a guest."
+  },
+  {
+    "id": 441,
+    "domain": "salads_and_sandwiches",
+    "front": "What is breaking, in the context of an emulsified dressing?",
+    "back": "Breaking is when an emulsified dressing separates back into its oil and liquid components. It is usually caused by adding oil too quickly or by sudden temperature shock."
+  },
+  {
+    "id": 442,
+    "domain": "salads_and_sandwiches",
+    "front": "How to repair or handle a broken emulsified dressing",
+    "back": "A broken emulsion can sometimes be repaired by slowly whisking it into a small amount of fresh egg yolk or water. A badly broken batch is often best discarded and remade for consistent texture."
+  },
+  {
+    "id": 443,
+    "domain": "salads_and_sandwiches",
+    "front": "Why standardize portioning in volume sandwich production?",
+    "back": "Using a scale or portion scoop instead of estimating by eye keeps every sandwich in a batch consistent in size and food cost. This matters for both guest experience and profitability."
+  },
+  {
+    "id": 444,
+    "domain": "salads_and_sandwiches",
+    "front": "How is a standard sandwich typically cut for presentation, and how is a club sandwich typically cut?",
+    "back": "A standard closed sandwich is commonly cut on the diagonal into two or four triangles. A club sandwich is typically cut into quarters to stabilize its multiple layers."
+  },
+  {
+    "id": 445,
+    "domain": "salads_and_sandwiches",
+    "front": "How to correctly store and label sandwiches held for later service",
+    "back": "Sandwiches held for later service must be wrapped tightly to prevent air exposure and cross contamination, labeled with the preparation date, and held under proper refrigeration until service."
+  },
+  {
+    "id": 446,
+    "domain": "specialty_preparation",
+    "front": "What is cross-contact in relation to food allergies?",
+    "back": "Cross-contact is when an allergen transfers to a food that should not contain it, through shared cutting boards, fryer oil, utensils, or airborne particles like flour dust. It is different from bacterial cross-contamination but requires similar prevention such as dedicated equipment."
+  },
+  {
+    "id": 447,
+    "domain": "specialty_preparation",
+    "front": "List the Canadian priority allergens a cook must track.",
+    "back": "Canada's priority allergens are peanuts, tree nuts, milk, eggs, fish, crustaceans and molluscs, soy, wheat and triticale, sesame seeds, mustard, and sulphites over a set concentration. These must be tracked and disclosed on menus and ingredient labels in a professional kitchen."
+  },
+  {
+    "id": 448,
+    "domain": "specialty_preparation",
+    "front": "Which grains contain gluten and must be avoided in a gluten-free dish?",
+    "back": "Wheat, barley, rye, and triticale all contain gluten. Hidden sources include soy sauce, malt vinegar, some spice blends, and roux-thickened sauces."
+  },
+  {
+    "id": 449,
+    "domain": "specialty_preparation",
+    "front": "Vegetarian vs. vegan diet: what is the key difference?",
+    "back": "A vegetarian diet excludes meat, poultry, and fish but may still include dairy and eggs. A vegan diet excludes all animal products entirely, including dairy, eggs, honey, and gelatin."
+  },
+  {
+    "id": 450,
+    "domain": "specialty_preparation",
+    "front": "What does halal dietary law forbid?",
+    "back": "Halal law forbids pork and alcohol, and requires animals to be slaughtered in a specific humane manner with a blessing. Hidden alcohol in wine reductions or extracts is a common oversight."
+  },
+  {
+    "id": 451,
+    "domain": "specialty_preparation",
+    "front": "What are the core requirements of kosher dietary law?",
+    "back": "Kosher law forbids pork and shellfish, requires slaughter by a trained shochet, and strictly separates meat and dairy, including using entirely separate equipment and dishware."
+  },
+  {
+    "id": 452,
+    "domain": "specialty_preparation",
+    "front": "What dietary pattern is common among practicing Hindus?",
+    "back": "Many practicing Hindus avoid beef out of respect for the cow, and a large number follow a vegetarian diet overall. A cook should never assume beef is acceptable without checking."
+  },
+  {
+    "id": 453,
+    "domain": "specialty_preparation",
+    "front": "Why does French cuisine form the technical backbone of Western culinary training?",
+    "back": "French cuisine established the five mother sauces, the mirepoix, and classical brigade organization, giving cooks shared vocabulary and technique used across many other cuisines."
+  },
+  {
+    "id": 454,
+    "domain": "specialty_preparation",
+    "front": "What makes authentic Italian risotto technique distinct?",
+    "back": "Risotto is made by constantly stirring rice while gradually adding hot stock, which slowly releases starch and builds creaminess, rather than adding all liquid at once."
+  },
+  {
+    "id": 455,
+    "domain": "specialty_preparation",
+    "front": "What is dashi and how is it made?",
+    "back": "Dashi is a foundational Japanese stock made by steeping kombu seaweed and then adding bonito flakes, producing a light, umami-rich base used throughout Japanese cooking."
+  },
+  {
+    "id": 456,
+    "domain": "specialty_preparation",
+    "front": "What is tadka or tempering in Indian cooking?",
+    "back": "Tadka is the technique of blooming whole spices in hot oil or ghee to release their aromatic compounds before adding them to a dish, producing deeper flavor than raw ground spices."
+  },
+  {
+    "id": 457,
+    "domain": "specialty_preparation",
+    "front": "What temperature must hot food stay above during catering transport and holding?",
+    "back": "Hot food must be kept above 60 degrees Celsius during transport and holding to stay out of the bacterial danger zone, matching standard sanitation temperature rules."
+  },
+  {
+    "id": 458,
+    "domain": "specialty_preparation",
+    "front": "What temperature must cold food stay below during catering transport?",
+    "back": "Cold food must be kept below 4 degrees Celsius during transport, typically using insulated coolers with ice packs to maintain safety."
+  },
+  {
+    "id": 459,
+    "domain": "specialty_preparation",
+    "front": "Why do banquet menus favor braised dishes over delicate a la carte items?",
+    "back": "Braised dishes hold their quality well after batch production and reheating, while delicate items like seared scallops are very hard to produce consistently for large guest counts at once."
+  },
+  {
+    "id": 460,
+    "domain": "specialty_preparation",
+    "front": "What service style relies on chafing dishes with water baths?",
+    "back": "Buffet service requires continuous replenishment over an extended serving window, and chafing dishes with water baths provide gentle, even heat to preserve food quality."
+  },
+  {
+    "id": 461,
+    "domain": "specialty_preparation",
+    "front": "What is a pate en croute?",
+    "back": "A pate en croute is a seasoned forcemeat mixture enclosed in pastry and baked, then typically sliced and served cold as a classic garde manger item."
+  },
+  {
+    "id": 462,
+    "domain": "specialty_preparation",
+    "front": "What is a terrine?",
+    "back": "A terrine refers to both the mold and the dish cooked inside it, made from meat, fish, or vegetables set in aspic or a forcemeat base, without a pastry crust."
+  },
+  {
+    "id": 463,
+    "domain": "specialty_preparation",
+    "front": "Why is sodium nitrite used in curing salt for cured meats?",
+    "back": "Sodium nitrite prevents the growth of Clostridium botulinum, the bacteria that causes botulism, which is a serious risk in cured, low-oxygen environments."
+  },
+  {
+    "id": 464,
+    "domain": "specialty_preparation",
+    "front": "What is aspic and why does stock clarity matter for it?",
+    "back": "Aspic is a savory jelly made from clarified stock set with gelatin. Since it sets clear, any cloudiness or weak flavor in the stock becomes obvious once served."
+  },
+  {
+    "id": 465,
+    "domain": "specialty_preparation",
+    "front": "What is the plating principle of negative space?",
+    "back": "Negative space is the empty, uncovered area of the plate left intentionally to frame the dish and prevent it from looking cluttered or overcrowded."
+  },
+  {
+    "id": 466,
+    "domain": "specialty_preparation",
+    "front": "What is the rule of odd numbers in plating?",
+    "back": "Items are grouped in odd numbers, such as three pieces of protein, because odd groupings tend to look more natural and visually interesting than even, symmetrical ones."
+  },
+  {
+    "id": 467,
+    "domain": "specialty_preparation",
+    "front": "What is the classic clock method used for in plating?",
+    "back": "The clock method places starch, protein, and vegetable at consistent clock positions on the plate, ensuring every cook produces a matching plate during busy service."
+  },
+  {
+    "id": 468,
+    "domain": "specialty_preparation",
+    "front": "What is sous vide cooking?",
+    "back": "Sous vide is sealing food, usually under vacuum, and cooking it in a precisely controlled low-temperature water bath for extended time, producing very even doneness."
+  },
+  {
+    "id": 469,
+    "domain": "specialty_preparation",
+    "front": "What is spherification in molecular gastronomy?",
+    "back": "Spherification uses sodium alginate mixed into a liquid and a calcium bath to form a thin gel membrane, turning the liquid into a small, liquid-centered sphere."
+  },
+  {
+    "id": 470,
+    "domain": "specialty_preparation",
+    "front": "What is lacto-fermentation used for in modern kitchens?",
+    "back": "Lacto-fermentation preserves and flavors vegetables through fermentation, and ingredients like miso, kimchi, and koji add complex umami flavor across many cuisine styles."
+  },
+  {
+    "id": 471,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "What are glutenin and gliadin, and what do they form together?",
+    "back": "They are the two wheat proteins that combine when flour is hydrated and worked. Together they form gluten, the elastic network that gives structure to bread and traps gas from leavening."
+  },
+  {
+    "id": 472,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "Why does bread flour work better than pastry flour for yeast bread?",
+    "back": "Bread flour has a higher protein content, around 12 to 14 percent, which builds strong gluten. Strong gluten lets bread rise tall and hold its shape during proofing and baking."
+  },
+  {
+    "id": 473,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "What happens if baking soda is used in a formula with no acidic ingredient?",
+    "back": "Baking soda needs an acid, such as buttermilk or molasses, to react and release gas. Without enough acid, the product tastes soapy or metallic and does not rise properly."
+  },
+  {
+    "id": 474,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "Why is double acting baking powder preferred commercially over single acting?",
+    "back": "Double acting baking powder reacts twice, once with liquid at room temperature and again with heat in the oven. This two-stage reaction gives more reliable and predictable rise."
+  },
+  {
+    "id": 475,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "What water temperature kills yeast and why does it matter?",
+    "back": "Water above about 60 degrees Celsius kills yeast because it is a living organism. Killed yeast cannot produce the gas needed for dough to rise."
+  },
+  {
+    "id": 476,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "Why do many bread recipes keep salt separated from yeast during mixing?",
+    "back": "Too much direct contact between salt and yeast before hydration can kill or weaken it. Keeping them apart until liquid is added protects the yeast's leavening ability."
+  },
+  {
+    "id": 477,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "Name the three categories of leavening agents.",
+    "back": "Chemical (baking soda and baking powder), biological (yeast fermentation), and mechanical or physical (trapped air from creaming, whipping, or steam)."
+  },
+  {
+    "id": 478,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "Which pastry type relies almost entirely on steam for its rise and hollow centre?",
+    "back": "Choux pastry. Steam from the batter's water content pushes the structure outward in the hot oven, creating the hollow shell used for eclairs and cream puffs."
+  },
+  {
+    "id": 479,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "Define beurrage and detrempe in laminated dough.",
+    "back": "The beurrage is the block of fat folded into the dough. The detrempe is the base dough itself. Repeated folds, called turns, build alternating layers of the two."
+  },
+  {
+    "id": 480,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "What is a panade, and where is it used?",
+    "back": "A panade is the cooked flour, water, and fat base made on the stovetop for choux pastry. It gelatinizes the starch before eggs are beaten in off the heat."
+  },
+  {
+    "id": 481,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "Why is short pastry deliberately mixed as little as possible?",
+    "back": "Short pastry needs minimal gluten development to stay tender and crumbly. Overworking it develops unwanted gluten and produces a tough crust."
+  },
+  {
+    "id": 482,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "Describe the muffin mixing method.",
+    "back": "Dry ingredients are mixed in one bowl and wet ingredients in another, then combined with minimal stirring just until moistened. This avoids overdeveloping gluten in quick breads."
+  },
+  {
+    "id": 483,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "Describe the creaming method and what it is used for.",
+    "back": "Softened fat and sugar are beaten together to trap air, then eggs are added gradually and dry ingredients are alternated with liquid. It is standard for butter cakes and many cookies."
+  },
+  {
+    "id": 484,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "Describe the foaming or sponge method and give an example product.",
+    "back": "Eggs are whipped with sugar into a stable foam that provides most or all leavening, then dry ingredients are gently folded in. Genoise and angel food cake use this method."
+  },
+  {
+    "id": 485,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "What is tempering in custard preparation?",
+    "back": "Tempering is slowly adding hot liquid to beaten eggs while whisking to raise their temperature gradually. This prevents the eggs from scrambling when combined with the rest of the hot mixture."
+  },
+  {
+    "id": 486,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "What is pastry cream and why must it reach a full boil during cooking?",
+    "back": "Pastry cream is a starch-thickened custard used to fill eclairs and tarts. It must briefly reach a full boil to fully activate the starch and lose a raw, starchy taste."
+  },
+  {
+    "id": 487,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "How is royal icing made and what is it mainly used for?",
+    "back": "Royal icing is made from egg whites or meringue powder beaten with icing sugar until stiff. It is used mainly for decorating because it dries hard."
+  },
+  {
+    "id": 488,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "What causes a coarse, tunnelled crumb in muffins?",
+    "back": "Overmixing the batter after the wet and dry ingredients are combined develops unwanted gluten. This produces visible tunnels running through the crumb instead of an even texture."
+  },
+  {
+    "id": 489,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "What is the most common cause of flat, spread out cookies?",
+    "back": "Fat that was too warm or melted rather than properly softened. Excess sugar or leavener relative to flour can also cause spreading."
+  },
+  {
+    "id": 490,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "What causes curdled or weeping baked custard?",
+    "back": "Cooking at too high a heat or for too long overcooks the egg proteins, causing them to separate from the liquid. A water bath and gentler heat help prevent this."
+  },
+  {
+    "id": 491,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "Why is fat called a tenderizer in baking?",
+    "back": "Fat coats flour proteins and blocks water from reaching them, limiting gluten formation. Less gluten means a more tender finished product."
+  },
+  {
+    "id": 492,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "How does flaky pastry differ from short pastry?",
+    "back": "Flaky pastry uses larger visible pieces of fat cut into the flour, creating more distinct layers. Short pastry uses smaller fat pieces, producing a crumblier, mealy texture."
+  },
+  {
+    "id": 493,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "What are gougeres?",
+    "back": "Gougeres are cheese-flavoured choux puffs made with the same panade and egg-incorporation technique as sweet choux pastries like eclairs."
+  },
+  {
+    "id": 494,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "What is baker's percentage and why is it used?",
+    "back": "Baker's percentage expresses every ingredient as a percentage of total flour weight, which is always 100 percent. It lets a formula be scaled up or down while keeping ratios, and the underlying science, consistent."
+  },
+  {
+    "id": 495,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "Why does enriched yeast dough ferment more slowly than lean dough?",
+    "back": "Sugar and fat in enriched dough slow yeast activity. Enriched dough also needs stronger gluten development to support the extra weight of the added ingredients."
+  },
+  {
+    "id": 496,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "What is the ideal internal temperature range for a fully baked yeast bread loaf?",
+    "back": "Roughly 88 to 96 degrees Celsius. Below this range the crumb is likely underbaked and gummy."
+  },
+  {
+    "id": 497,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "What internal temperature range indicates a baked custard is done, and what should the centre look like?",
+    "back": "A baked custard is done at an internal temperature of about 74 to 82 degrees C, while still slightly jiggly in the centre, since it continues to firm up as it cools. Overshooting this range is one of the main causes of curdled, weeping custard."
+  },
+  {
+    "id": 498,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "What happens if fat gets too warm during lamination of puff pastry?",
+    "back": "The fat smears into the dough instead of staying in distinct layers. This destroys the alternating dough and fat layers needed for a tall, flaky rise."
+  },
+  {
+    "id": 499,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "What happens if laminated dough or its fat gets too cold during folding?",
+    "back": "The dough cracks and tears instead of folding cleanly. This is the opposite problem from fat being too warm, which causes smearing."
+  },
+  {
+    "id": 500,
+    "domain": "sweet_and_savoury_baked_goods",
+    "front": "What is a bain marie and why is it used for baked custards?",
+    "back": "A bain marie is a water bath that insulates the custard from direct oven heat. It prevents curdling and a rubbery texture by promoting gentle, even cooking."
+  }
+]
